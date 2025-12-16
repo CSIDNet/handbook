@@ -7,3 +7,4 @@
   * [Code of Conduct](policies/code-of-conduct.md)
   * [Membership framework](policies/membership-framework.md)
   * [Representativeness Statement](policies/representativeness-statement.md)
+  * [Committee Membership and Renewal Policy](policies/committee-membership-and-renewal-policy.md)
