@@ -6,3 +6,4 @@
   * [CSIDNet WhatsApp Community – Participation Guidelines](policies/csidnet-whatsapp-community-participation-guidelines.md)
   * [Code of Conduct](policies/code-of-conduct.md)
   * [Membership framework](policies/membership-framework.md)
+  * [Representativeness Statement](policies/representativeness-statement.md)
