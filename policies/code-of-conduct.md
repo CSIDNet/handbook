@@ -13,7 +13,7 @@ How we Practice our Values:
 * Communicate clearly and thoughtfully: Share ideas in ways that are accessible to everyone. Avoid jargon when possible and explain terms when needed. We value thoughtful dialogue and believe that healthy debate is an opportunity for learning, not division.
 * Care for safety and privacy: Before sharing someone’s photo, words, or experiences publicly, ask for their consent. Be mindful of how your actions—both online and offline—may impact the comfort and safety of others.
 * Uphold a safe and harassment-free community: We are committed to maintaining CSIDNet as a space where everyone feels safe, respected, and free to fully participate. Harassment of any kind has no place in our community. This includes—but is not limited to—offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, or other protected identities; sexual images in public spaces; deliberate intimidation; stalking or following; harassing photography or recording; sustained disruption of discussions or events; inappropriate physical contact; and unwelcome sexual attention.
-* Help us stay accountable: If someone asks you to stop behavior they find uncomfortable or harmful, we expect you to respect that immediately. If you experience or witness behavior that feels out of alignment with these values, we invite you to share your concerns. You can reach out directly to our Advisory group at [advisory@csid-community.groups.io](mailto:advisory@CSID-community.groups.io) All concerns will be handled with care and confidentiality.
+* Help us stay accountable: If someone asks you to stop behavior they find uncomfortable or harmful, we expect you to respect that immediately. If you experience or witness behavior that feels out of alignment with these values, we invite you to share your concerns. You can reach out directly to our Advisory group at [advisory-committee@csid-community.groups.io](mailto:advisory@CSID-community.groups.io) All concerns will be handled with care and confidentiality.
 
 Through these everyday practices, we can build the kind of collaborative, respectful, and supportive community we all want to be part of.
 
@@ -51,7 +51,7 @@ Nous nous engageons à faire du CSIDNet un espace où chacun·e se sent en sécu
 
 Contribuer à notre responsabilité collective :
 
-Si quelqu’un vous demande de cesser un comportement qu’il ou elle juge inconfortable ou nuisible, nous attendons de vous que vous respectiez cette demande immédiatement. Si vous êtes témoin ou victime d’un comportement en décalage avec ces valeurs, nous vous encourageons à le signaler. Vous pouvez contacter directement notre groupe consultatif à l’adresse suivante: [advisory@csid-community.groups.io](mailto:advisory@csid-community.groups.io). Toutes les préoccupations seront traitées avec soin et confidentialité.
+Si quelqu’un vous demande de cesser un comportement qu’il ou elle juge inconfortable ou nuisible, nous attendons de vous que vous respectiez cette demande immédiatement. Si vous êtes témoin ou victime d’un comportement en décalage avec ces valeurs, nous vous encourageons à le signaler. Vous pouvez contacter directement notre groupe consultatif à l’adresse suivante: [advisory-committee@csid-community.groups.io](mailto:advisory@csid-community.groups.io). Toutes les préoccupations seront traitées avec soin et confidentialité.
 
 Grâce à ces pratiques quotidiennes, nous pouvons construire la communauté collaborative, respectueuse et solidaire à laquelle nous aspirons tou·te·s.
 
@@ -89,6 +89,6 @@ Nos comprometemos a que CSIDNet sea un espacio donde todxs se sientan segurxs, r
 
 Ayúdanos a mantener la responsabilidad colectiva:
 
-Si alguien te pide que detengas un comportamiento que considera incómodo o dañino, esperamos que respetes esa solicitud de inmediato. Si experimentas o presencias un comportamiento que no se alinea con estos valores, te invitamos a compartir tus preocupaciones. Puedes contactar directamente a nuestro grupo asesor en [advisory@csid-community.groups.io](mailto:advisory@csid-community.groups.io). Todas las preocupaciones se manejarán con cuidado y confidencialidad.
+Si alguien te pide que detengas un comportamiento que considera incómodo o dañino, esperamos que respetes esa solicitud de inmediato. Si experimentas o presencias un comportamiento que no se alinea con estos valores, te invitamos a compartir tus preocupaciones. Puedes contactar directamente a nuestro grupo asesor en [advisory-committee@csid-community.groups.io](mailto:advisory@csid-community.groups.io). Todas las preocupaciones se manejarán con cuidado y confidencialidad.
 
 A través de estas prácticas cotidianas, podemos construir la comunidad colaborativa, respetuosa y solidaria de la que todxs queremos formar parte.
