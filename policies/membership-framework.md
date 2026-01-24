@@ -1,4 +1,4 @@
-# Membership framework
+# Membership Framework
 
 | Version | Date Updated     | Description of Changes                            |
 | ------- | ---------------- | ------------------------------------------------- |
@@ -7,8 +7,6 @@
 ***
 
 <figure><img src="../.gitbook/assets/Membership_categories.png" alt="" width="374"><figcaption><p>Decision tree for membership categories</p></figcaption></figure>
-
-
 
 ### Membership Eligibility Requirements
 
@@ -163,13 +161,10 @@ Dues are paid annually at the start of each membership cycle, which runs from Ja
 | ----------- | --------------------------- | -------------------------------------- |
 | Standard    | $50 USD                     | $20 USD                                |
 | Student     | $20 USD                     | $15 USD                                |
-
-
+|             |                             |                                        |
 
 4. **Supporter Organizations**
    1. Dues vary by organizational size and income level.
-
-
 
 | Organization Size    | High-Income Countries (HIC)         | Low- and Middle-Income Countries (LMIC) |
 | -------------------- | ----------------------------------- | --------------------------------------- |
