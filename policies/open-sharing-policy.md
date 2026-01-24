@@ -1,4 +1,4 @@
-# CSIDNet Open Sharing Policy
+# Open Sharing Policy
 
 
 
@@ -8,12 +8,11 @@
 | 2.0         | October 31, 2025 | Revised by collective discussion within Governance committee |
 | 3.0         | Nov 14, 2025     | Ratified by Governance Committee                             |
 
-\
-**1. Purpose**
+### &#x20;**1. Purpose**
 
 The Climate Sensitive Infectious Diseases Network is committed to building a global, cooperative community that shares knowledge openly to advance collective learning, climate-informed public health, and equitable access to science. This policy establishes guidelines for open sharing of outputs created by working groups, committees, fellows, and other contributors funded through CSIDNet programs, including participatory budgeting processes.
 
-**2. Policy Statement**
+### **2. Policy Statement**
 
 CSIDNet requires that outputs produced with CSIDNet resources (financial, technical, or community support) be openly shared and made accessible within and beyond the Network.\
 \
@@ -33,7 +32,7 @@ CSIDNet does not require or encourage authors to pay Author Processing Charges (
 
 All funded working groups and contributors must commit to this principle at the time of application, during the execution of their engagement, and after its completion.
 
-**3. Scope of Policy**
+### **3. Scope of Policy**
 
 This policy applies to all:
 
@@ -43,7 +42,7 @@ This policy applies to all:
 
 Covered outputs include, but are not limited to: reports, data sets, software, training materials, presentations, publications, blogs, multimedia, and strategy documents.
 
-**4. Depositing Outputs**
+### **4. Depositing Outputs**
 
 Recognizing that licensing alone does not ensure access, CSIDNet recommends outputs to be deposited in open repositories appropriate to the output type. For example:
 
@@ -52,19 +51,19 @@ Recognizing that licensing alone does not ensure access, CSIDNet recommends outp
 * **Data**: Zenodo, Figshare, OSG, institutional repositories.
 * **Software**: GitHub, GitLab, and archived versions in Zenodo.
 
-**5. Authorship and Attribution**
+### **5. Authorship and Attribution**
 
 * Outputs should credit CSIDNet where appropriate and acknowledge the role of the participatory budget or other funding source.
 * Authors must credit contributors appropriately, including contributor roles when feasible.
 * Contributors retain authorship and moral rights.
 
-**6. Compliance and Monitoring**
+### **6. Compliance and Monitoring**
 
 * Project, fellowship, and any funding proposals should include a statement of open licensing commitment. For example: “This project commits to releasing all outputs under open licenses consistent with CSIDNet’s Open Sharing Policy.”
 * CSIDNet may review outputs for compliance with this policy before dissemination.
 * Our intent is collective learning and benefit. Repeated non-compliance without documented rationale  may affect eligibility for future funding or continued participation in CSIDNet activities. When concerns arise, we aim for constructive remediation plans before considering eligibility impacts
 
-**7. Support and Resources**
+### **7. Support and Resources**
 
 CSIDNet will provide:
 
@@ -72,11 +71,11 @@ CSIDNet will provide:
 * Training on open sharing practices
 * Sample language and checklists on open sharing practices
 
-**8. Amendments**
+### **8. Amendments**
 
 CSIDNet will review this policy annually and possibly amend to reflect evolving best practices in open science, community governance, and nonprofit accountability. Members will be notified of significant updates.
 
-**9. Contact**
+### **9. Contact**
 
 For questions about this policy, licensing, or compliance, please contact\
 [operations@csidnet.org](mailto:operations@csidnet.org).
