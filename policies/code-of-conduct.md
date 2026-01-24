@@ -19,7 +19,7 @@ Through these everyday practices, we can build the kind of collaborative, respec
 
 ***
 
-#### Code de conduite de la communauté CSIDNet
+### Code de conduite de la communauté CSIDNet
 
 Version : 1.0
 
@@ -57,7 +57,7 @@ Grâce à ces pratiques quotidiennes, nous pouvons construire la communauté col
 
 ***
 
-#### Código de Conducta de la Comunidad CSIDNet
+### Código de Conducta de la Comunidad CSIDNet
 
 Versión: 1.0
 
