@@ -1,4 +1,4 @@
-# WhatsApp Community – Participation Guidelines
+# WhatsApp Community Participation Guidelines
 
 The CSIDNet WhatsApp Community is a space for Committees, Working Groups (WG), and event participants (e.g. AGM) to share quick updates and announcements. CSIDNet’s [Code of Conduct](https://docs.google.com/document/d/15pvqtT6sDWQ5zt51uwCyIVesSLZq-MuFqge6r2MQRUI/edit?usp=sharing) applies to all community interactions, including WhatsApp groups. This document provides guidelines to ensure this space is welcoming and aligned with our values.
 
@@ -8,7 +8,7 @@ The CSIDNet WhatsApp Community is a space for Committees, Working Groups (WG), a
 * WhatsApp: short updates, announcements, reminders.
 * Email: document sharing, feedback requests, decision making.&#x20;
 * Staff support. Email [operations@csidnet.org](mailto:operations@csidnet.org) or get in touch with the Committee staff point of contact.
-* Community-wide. Our listserv on [Groups.io](http://groups.io) is the best way to reach all CSIDNet members.
+* Community-wide. [Our listserv](https://csidnet.org/about/join/) on [Groups.io](http://groups.io) is the best way to reach all CSIDNet members.
 
 ### 2. Respect and inclusivity
 
