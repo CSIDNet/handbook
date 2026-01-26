@@ -10,3 +10,5 @@
   * [Representativeness Statement](policies/representativeness-statement.md)
   * [Committee Membership and Renewal Policy](policies/committee-membership-and-renewal-policy.md)
   * [Working Group Financial Guidelines](network-policies/working-group-financial-guidelines.md)
+  * [CSIDNet Working Group – Terms of Reference](network-policies/csidnet-working-group-terms-of-reference.md)
+  * [Reporting Guide and Schedule for CSID Network Committees](network-policies/reporting-guide-and-schedule-for-csid-network-committees.md)
