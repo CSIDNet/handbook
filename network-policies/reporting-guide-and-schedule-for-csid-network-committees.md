@@ -18,7 +18,7 @@ Why reporting is important for the CSIDNet:
 4. **Better onboarding**: New members and staff understand how we operates
 5. **Network memory**: We document our collective learning for future cohorts of staff and members, partners, as well as for scaling and localization efforts
 
-### Key Considerations:
+### **Key Considerations**:
 
 1. **Minimal Production Effort**: Reports should require minimal work to produce.
 2. **Ease of Intake**: The information must be structured so that recipients, including non-experts of the subject matter, can quickly read and understand the content.
@@ -37,7 +37,7 @@ Why reporting is important for the CSIDNet:
 3. **Within Committee Approval Process**: All report content must be reviewed and approved by other committee team members within the generator's committee through consensus or any agreed-upon approval process to ensure accuracy, clarity, and discretion before wider circulation.
 4. **Committee Liaison System**: A specific individual from each committee to be assigned for ensuring timely report generation, approval, and dissemination.
 
-### B. Content
+### B. **Content**
 
 At the start of the quarter, each committee will complete the workplan: [Committee Work Plan Template](https://docs.google.com/document/d/1aNfRWfqdrYoP3nu_7-zYpLwQNp5j0S9EnKC3Vp5DxfE/edit?tab=t.0#heading=h.zdfndk7hlo6x)
 
@@ -53,7 +53,7 @@ And submit a new quarterly work plan for the next quarter.
 
 Each committee should decide who and how they will distribute the work of submitting the report.
 
-### C. Submission and Dissemination
+### C. **Submission and Dissemination**
 
 1. #### Storage and submission
 
