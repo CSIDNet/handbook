@@ -13,3 +13,4 @@
   * [CSIDNet Working Group – Terms of Reference](network-policies/csidnet-working-group-terms-of-reference.md)
   * [Reporting Guide and Schedule for CSID Network Committees](network-policies/reporting-guide-and-schedule-for-csid-network-committees.md)
   * [CSID Network Honoraria and Non-Staff Compensation Policy](network-policies/csid-network-honoraria-and-non-staff-compensation-policy.md)
+  * [Formation and Dissolution of the Committees Policy](network-policies/formation-and-dissolution-of-the-committees-policy.md)
