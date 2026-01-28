@@ -9,6 +9,7 @@
   * [CSIDNet Working Group – Terms of Reference](network-policies/csidnet-working-group-terms-of-reference.md)
   * [Open Sharing Policy](policies/open-sharing-policy.md)
   * [Conflict of Interest Policy](policies/conflict-of-interest-policy.md)
+  * [Virtual Event Participation Guidelines](network-policies/virtual-event-participation-guidelines.md)
   * [Working Group Financial Guidelines](network-policies/working-group-financial-guidelines.md)
   * [WhatsApp Community Participation Guidelines](policies/whatsapp-community-participation-guidelines.md)
   * [Representativeness Statement](policies/representativeness-statement.md)
