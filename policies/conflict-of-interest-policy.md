@@ -26,6 +26,6 @@ If a committee member or staff has a potential CoI, they will be asked to recuse
 4. The reviewer is an applicant.&#x20;
 5. The reviewer is affiliated with (e.g. employed by or a member of) an organization that is applying.&#x20;
 
-Reviewers are welcome to reach out to the CSIDNet staff with questions about potential conflicts of interest. Selecting and decision holding members are asked to recuse themselves from evaluating or discussing proposals with which they have a conflict of interest. For other types of conflict, see [Conflict Resolution Policy](https://docs.google.com/document/d/1MkJ04tylU59dd0wtj3IOY55uOMcu5FQo82zwLqbzsX4/edit?tab=t.0) and the [Community Code of Conduct.](https://docs.google.com/document/d/1j2-KdBTIrEuAu8mVE30oXeMFy9OcE-CDsyCuRaLIFjE/edit?usp=sharing)&#x20;
+Reviewers are welcome to reach out to the CSIDNet staff with questions about potential conflicts of interest. Selecting and decision holding members are asked to recuse themselves from evaluating or discussing proposals with which they have a conflict of interest. For other types of conflict, see [Conflict Resolution Policy](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/FO1KfDDeaLbSc77UEiSU/network-policies/conflict-resolution-policy) and the [Community Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/FO1KfDDeaLbSc77UEiSU/network-policies/code-of-conduct).&#x20;
 
 <br>
