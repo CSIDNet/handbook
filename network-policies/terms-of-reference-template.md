@@ -1,6 +1,5 @@
 # Terms of Reference Template
 
-**Terms of Reference Template**\
 (Name of Standing Committee)
 
 **Purpose**\
