@@ -84,18 +84,18 @@ c. In case of termination, the WG shall submit all completed work, a financial r
 
 8. **DISPUTE RESOLUTION**
 
-Disputes arising from this collaboration agreement shall be resolved through CSIDNet's established [conflict resolution processes](https://docs.google.com/document/d/1MkJ04tylU59dd0wtj3IOY55uOMcu5FQo82zwLqbzsX4/edit?tab=t.0), prioritizing dialogue and mediation consistent with the organization's democratic governance principles.
+Disputes arising from this collaboration agreement shall be resolved through CSIDNet's established [conflict resolution processes](https://csidnet.gitbook.io/csidnet-handbook/network-policies/conflict-resolution-policy), prioritizing dialogue and mediation consistent with the organization's democratic governance principles.
 
-9. SIGNATURES
+9. **SIGNATURES**
 
-On behalf of the CSIDNet Governance Committee:
+**On behalf of the CSIDNet Governance Committee:**
 
 &#x20;                                                                             \
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \[Representative Name and Surname]
 
-On behalf of the Working Groups:\
+**On behalf of the Working Groups:**\
 <br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -137,8 +137,8 @@ ANNEXES
 
 1. [Working Group Proposals](https://drive.google.com/file/d/17U007QrJXnGnaT1ixrTkrkfHuiYRC1AJ/view?usp=sharing)
 2. [Collective Working Groups Budget](https://docs.google.com/spreadsheets/d/15nbHGQC4njVmCnV5p9S2JtIODkr4i-XwBcsGCFisjUI/edit?usp=sharing)
-3. [Terms of Reference for 2026 Working Groups](https://docs.google.com/document/d/1OdnIlxlgbPEnKiVHgOPcTG4lbEoXqpnqbuyWxJb1x6Y/edit?usp=sharing)
-4. [CSIDNet Open Sharing Policy](https://docs.google.com/document/d/1mw1PLlVw8a5SenGpW0feYd_lP3qm7jOm0XZOQUGpF0w/edit?usp=sharing)
-5. [CSIDNet Conflict Resolution Policy](https://docs.google.com/document/d/1MkJ04tylU59dd0wtj3IOY55uOMcu5FQo82zwLqbzsX4/edit?tab=t.0)
-6. [CSIDNet Conflict of Interest Policy](https://docs.google.com/document/d/1aD0Zxn6ZV_Y4J1LjPbwNBM0WV_LmalsJwwr0_qkPCyc/edit?usp=sharing)
-7. [CSIDNet Community Code of Conduct](https://docs.google.com/document/d/1j2-KdBTIrEuAu8mVE30oXeMFy9OcE-CDsyCuRaLIFjE/edit?usp=sharing)
+3. [Terms of Reference for 2026 Working Groups](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/qYNly36xQoRbApItoAq0/network-policies/csidnet-working-group-terms-of-reference)
+4. [CSIDNet Open Sharing Policy](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/qYNly36xQoRbApItoAq0/network-policies/open-sharing-policy)
+5. [CSIDNet Conflict Resolution Policy](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/qYNly36xQoRbApItoAq0/network-policies/conflict-resolution-policy)
+6. [CSIDNet Conflict of Interest Policy](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/qYNly36xQoRbApItoAq0/network-policies/conflict-of-interest-policy)
+7. [CSIDNet Community Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/qYNly36xQoRbApItoAq0/network-policies/code-of-conduct)
