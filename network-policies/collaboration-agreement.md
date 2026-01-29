@@ -133,7 +133,7 @@ Disputes arising from this collaboration agreement shall be resolved through CSI
 \
 <br>
 
-ANNEXES
+**ANNEXES**
 
 1. [Working Group Proposals](https://drive.google.com/file/d/17U007QrJXnGnaT1ixrTkrkfHuiYRC1AJ/view?usp=sharing)
 2. [Collective Working Groups Budget](https://docs.google.com/spreadsheets/d/15nbHGQC4njVmCnV5p9S2JtIODkr4i-XwBcsGCFisjUI/edit?usp=sharing)
