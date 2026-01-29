@@ -25,7 +25,7 @@ Members are expected to:
 
 * Participate actively and equitably in WG meetings and outputs
 * Value diverse perspectives and lived experiences
-* Uphold CSIDNet’s [Code of Conduct](https://docs.google.com/document/d/15pvqtT6sDWQ5zt51uwCyIVesSLZq-MuFqge6r2MQRUI/edit?tab=t.0#heading=h.qjtrq4bvubiv)
+* Uphold CSIDNet’s Code of Conduct
 * Share facilitation, communication, and administrative labor over time
 
 Working groups will be expected to submit quarterly updates to the broader community about their progress on proposed activities. An annual summary report will be submitted after 12 months of activities.
