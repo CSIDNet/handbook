@@ -34,7 +34,7 @@ Review Criteria will consist of:
 **c. Communication of Decision**\
 Proposers will be informed of the decision within **10 weeks** of submission:
 
-* **If approved**: the Proposer(s) will draft a [Committee Terms of Reference](https://docs.google.com/document/d/1nabwX5FH6DnBtBRoGx_ZgPfi6zTEr98CMOAPDqi2FWs/edit?usp=sharing). Once completed, the ToR will be shared with the governance committee. A network-wide announcement will also be made by staff.
+* **If approved**: the Proposer(s) will draft a [Committee Terms of Reference](https://csidnet.gitbook.io/csidnet-handbook/network-policies/terms-of-reference-template). Once completed, the ToR will be shared with the governance committee. A network-wide announcement will also be made by staff.
 * **If not approved**: Feedback and recommendations for revision will be sent to the proposer(s) for possible modification and resubmission.
 
 **d. Calls for Participation**\
@@ -51,7 +51,7 @@ Calls for participation for the newly formed committee will be circulated across
 Members interested in joining should respond directly to the call and contact the designated proposer.
 
 **f. Selection of Members**\
-If more people express interest than needed, the proposer team, in consultation with the membership committee, will finalize the membership. Selection while prioritizing [representativeness](https://docs.google.com/document/u/0/d/1pSkWrNJnmahg6kpSjzDM54_H5H0wOhH7tiEE0upzge8/edit).<br>
+If more people express interest than needed, the proposer team, in consultation with the membership committee, will finalize the membership. Selection while prioritizing [representativeness](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/j03Tl6w4wYoM8eE0s60r/network-policies/representativeness-statement).<br>
 
 #### 2. Dissolution of Existing Standing Committees
 
