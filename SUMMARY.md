@@ -16,5 +16,6 @@
   * [WhatsApp Community Participation Guidelines](policies/whatsapp-community-participation-guidelines.md)
   * [Representativeness Statement](policies/representativeness-statement.md)
   * [Reporting Guide and Schedule for CSID Network Committees](network-policies/reporting-guide-and-schedule-for-csid-network-committees.md)
+  * [Terms of Reference Template](network-policies/terms-of-reference-template.md)
   * [Formation and Dissolution of the Committees Policy](network-policies/formation-and-dissolution-of-the-committees-policy.md)
   * [Process for Renaming a Committee](network-policies/process-for-renaming-a-committee.md)
