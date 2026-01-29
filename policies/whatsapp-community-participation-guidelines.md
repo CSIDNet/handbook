@@ -1,6 +1,6 @@
 # WhatsApp Community Participation Guidelines
 
-The CSIDNet WhatsApp Community is a space for Committees, Working Groups (WG), and event participants (e.g. AGM) to share quick updates and announcements. CSIDNet’s [Code of Conduct](https://docs.google.com/document/d/15pvqtT6sDWQ5zt51uwCyIVesSLZq-MuFqge6r2MQRUI/edit?usp=sharing) applies to all community interactions, including WhatsApp groups. This document provides guidelines to ensure this space is welcoming and aligned with our values.
+The CSIDNet WhatsApp Community is a space for Committees, Working Groups (WG), and event participants (e.g. AGM) to share quick updates and announcements. CSIDNet’s [Code of Conduct ](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/yXQUmwGtq1ULYWZjT3Wy/network-policies/code-of-conduct)applies to all community interactions, including WhatsApp groups. This document provides guidelines to ensure this space is welcoming and aligned with our values.
 
 ### 1. Communication channels
 
@@ -47,7 +47,7 @@ This guideline is partially adapted from [OLS Slack Guidelines](https://we-are-o
 
 🌱[ Participation Guidelines](https://csid-community.groups.io/g/all-committees/files/WhatsApp%20Community%20Posting%20Guidelines.pdf)
 
-✨ CSIDNet’s [Code of Conduct](https://docs.google.com/document/d/15pvqtT6sDWQ5zt51uwCyIVesSLZq-MuFqge6r2MQRUI/edit?usp=sharing) applies here too.<br>
+✨ CSIDNet’s [Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/yXQUmwGtq1ULYWZjT3Wy/network-policies/code-of-conduct) applies here too.<br>
 
 1️⃣Communication channels
 
