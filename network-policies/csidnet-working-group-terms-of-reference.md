@@ -2,7 +2,7 @@
 description: 'v_3.0 - Last Updated: January 23, 2026'
 ---
 
-# CSIDNet Working Group – Terms of Reference
+# Working Group – Terms of Reference
 
 ### **Purpose of Working Groups**
 

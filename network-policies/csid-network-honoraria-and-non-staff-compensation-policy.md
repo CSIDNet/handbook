@@ -1,4 +1,4 @@
-# CSID Network Honoraria and Non-Staff Compensation Policy
+# Honoraria and Non-Staff Compensation Policy
 
 | **Version** | **Date Updated** | **Description of Changes**       |
 | ----------- | ---------------- | -------------------------------- |

@@ -4,7 +4,7 @@ The Climate-Sensitive Infectious Disease Network (CSIDN) invites original, insig
 
 
 
-1. **Purpose and Scope**&#x20;
+&#x20;**1. Purpose and Scope**&#x20;
 
 Blog posts should focus on topics relevant to climate-sensitive infectious diseases, including (but not limited to):&#x20;
 
