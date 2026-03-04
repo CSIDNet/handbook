@@ -1,8 +1,6 @@
 # Code of Conduct
 
-| Version | Date Updated | Description of Changes |
-| ------- | ------------ | ---------------------- |
-| 1.0     | May 14, 2025 | <p><br></p>            |
+_Updated on May 14, 2025_
 
 At CSIDNet, we believe that how we engage is just as important as what we’re working toward. Together, we’re creating a global community rooted in mutual respect, curiosity, and care—for each other and for the communities we serve. These shared practices help us foster a positive, inclusive environment where everyone feels welcomed and valued.
 
@@ -21,9 +19,7 @@ Through these everyday practices, we can build the kind of collaborative, respec
 
 ### Code de conduite de la communauté CSIDNet
 
-Version : 1.0
-
-Date de mise à jour : 14 mai 2025
+Mis à jour le 14 mai 2025
 
 Chez CSIDNet, nous croyons que la manière dont nous interagissons est tout aussi importante que les objectifs que nous poursuivons. Ensemble, nous construisons une communauté internationale fondée sur le respect mutuel, la curiosité et l’attention — pour chacun d’entre nous et pour les communautés que nous servons. Ces pratiques communes nous permettent de cultiver un environnement positif et inclusif où chacun·e se sent accueilli·e et valorisé·e.
 
@@ -59,9 +55,7 @@ Grâce à ces pratiques quotidiennes, nous pouvons construire la communauté col
 
 ### Código de Conducta de la Comunidad CSIDNet
 
-Versión: 1.0
-
-Fecha de actualización: 14 de mayo de 2025
+Actualizado el 14 de mayo de 2025
 
 En CSIDNet, creemos que la forma en que nos relacionamos es tan importante como los objetivos que perseguimos. Juntas y juntos estamos construyendo una comunidad global basada en el respeto mutuo, la curiosidad y el cuidado — entre nosotrxs y hacia las comunidades a las que servimos. Estas prácticas compartidas nos ayudan a fomentar un ambiente positivo e inclusivo donde todxs se sientan bienvenidxs y valoradxs.
 
