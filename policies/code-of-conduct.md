@@ -1,6 +1,8 @@
-# Code of Conduct
+---
+description: Updated on May 14, 2025
+---
 
-_Updated on May 14, 2025_
+# Code of Conduct
 
 At CSIDNet, we believe that how we engage is just as important as what we’re working toward. Together, we’re creating a global community rooted in mutual respect, curiosity, and care—for each other and for the communities we serve. These shared practices help us foster a positive, inclusive environment where everyone feels welcomed and valued.
 

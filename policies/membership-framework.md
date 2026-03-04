@@ -1,8 +1,8 @@
-# Membership Framework
+---
+description: Updated on December 3, 2025
+---
 
-| Version | Date Updated     | Description of Changes                            |
-| ------- | ---------------- | ------------------------------------------------- |
-| 1.0     | December 3, 2025 | Ratified by Membership and Partnerships Committee |
+# Membership Framework
 
 ***
 

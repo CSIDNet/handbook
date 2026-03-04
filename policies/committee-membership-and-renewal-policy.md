@@ -1,9 +1,8 @@
-# Committee Membership and Renewal Policy
+---
+description: Updated on May 24, 2025
+---
 
-| Version | Date Updated | Description of Changes           |
-| ------- | ------------ | -------------------------------- |
-| 1.0     | May 23, 2025 | Ratified by Governance Committee |
-|         |              | <p><br></p>                      |
+# Committee Membership and Renewal Policy
 
 As of April 1, 2025, CSIDNet has 8 network committees with 44 members who have committed to serve until July 2025 upon which we will determine term limits. To involve as many members as possible in our planning and operational work, we initially filled committees on an open, voluntary basis. Over time, committees will be populated on a rolling basis through an application process, with the Governance and Advisory Committees elected by the full membership. This document details the process for committee renewal and membership, both elected and non-elected. Each non-elected committee will have a flexible size, with a minimum of 3 and a maximum of 10 members. Elected committee sizes are dependent on the committee. Meeting schedules will be determined by members based on the needs of the committee’s work.
 
