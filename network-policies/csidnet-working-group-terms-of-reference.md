@@ -1,5 +1,5 @@
 ---
-description: 'v_3.0 - Last Updated: January 23, 2026'
+description: Updated on January 23, 2026
 ---
 
 # Working Group – Terms of Reference

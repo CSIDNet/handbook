@@ -1,8 +1,8 @@
-# Honoraria and Non-Staff Compensation Policy
+---
+description: Updated on May 23, 2025
+---
 
-| **Version** | **Date Updated** | **Description of Changes**       |
-| ----------- | ---------------- | -------------------------------- |
-| 1.0         | May 23, 2025     | Ratified by Governance Committee |
+# Honoraria and Non-Staff Compensation Policy
 
 This document provides guidelines for honoraria payments and non-staff compensation paid by the CSID Network. Honoraria are paid when a service is provided free-of-charge, and the CSID Network wishes to express gratitude or thanks to the person providing the service. The issuance of honoraria provides a mechanism by which the CSID Network can compensate labor for short-term, one-time engagements in the absence of formal employment or contracting agreements. <br>
 

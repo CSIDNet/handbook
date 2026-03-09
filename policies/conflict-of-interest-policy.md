@@ -1,10 +1,8 @@
-# Conflict of Interest Policy
+---
+description: Updated on October 22, 2025
+---
 
-| Version     | Date Updated | Description of Changes                            |
-| ----------- | ------------ | ------------------------------------------------- |
-| 1.0         | Nov, 2024    | First version when CSIDnet was a project at CS\&S |
-| 2.0         | Oct 22, 2025 | Changed to CSIDNet as an independent network      |
-| <p><br></p> | <p><br></p>  | <p><br></p>                                       |
+# Conflict of Interest Policy
 
 **What is considered a conflict of interest (CoI)?**
 

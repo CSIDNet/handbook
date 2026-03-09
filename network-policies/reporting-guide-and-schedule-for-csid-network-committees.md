@@ -1,10 +1,8 @@
-# Reporting Guide and Schedule for CSID Network Committees
+---
+description: Updated on May 28, 2025
+---
 
-| Version     | Date Updated  | Description of Changes                |
-| ----------- | ------------- | ------------------------------------- |
-| 1.0         | April 1, 2025 | Proposal for All Committees to Review |
-| 2.0         | May 28, 2025  | Ratified Version                      |
-| <p><br></p> | <p><br></p>   | <p><br></p>                           |
+# Reporting Guide and Schedule for CSID Network Committees
 
 ### **Purpose**
 

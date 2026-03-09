@@ -1,10 +1,8 @@
-# Conflict Resolution Policy
+---
+description: Updated on November 28, 2025
+---
 
-| **Version** | **Date Updated** | **Description of Changes**       |
-| ----------- | ---------------- | -------------------------------- |
-| 1.0         | Oct 22, 2025     | Drafted by Governance Committee  |
-| 2.0         | Nov 28, 2025     | Ratified by Governance Committee |
-| <p><br></p> | <p><br></p>      | <p><br></p>                      |
+# Conflict Resolution Policy
 
 **Objective**\
 The purpose of this Conflict and Resolution Policy is to provide a framework for identifying, addressing, and resolving complaints, grievances, conflicts, and disputes within the Climate Sensitive Infectious Disease Network (CSIDNet) in a fair, timely, and constructive manner while maintaining a respectful and collaborative environment.&#x20;

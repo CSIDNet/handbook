@@ -1,5 +1,5 @@
 ---
-description: V1.0 Sep 17, 2025
+description: Updated on September 17, 2025
 ---
 
 # Process for Renaming a Committee

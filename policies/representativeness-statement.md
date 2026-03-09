@@ -1,14 +1,8 @@
 ---
-description: >-
-  A succinct statement to read before making decisions to help improve
-  representation across the diverse entities and individuals in CSIDNet
+description: Updated on October 21, 2025
 ---
 
 # Representativeness Statement
-
-| Version | Date Updated | Description of Changes           |
-| ------- | ------------ | -------------------------------- |
-| 1.0     | Oct 21, 2025 | Ratified by Governance Committee |
 
 ### **Purpose of Document**
 

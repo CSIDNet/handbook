@@ -11,6 +11,7 @@
   * [Open Sharing Policy](policies/open-sharing-policy.md)
   * [Conflict Resolution Policy](network-policies/conflict-resolution-policy.md)
   * [Conflict of Interest Policy](policies/conflict-of-interest-policy.md)
+  * [In-Person Event Participation Guidelines](network-policies/in-person-event-participation-guidelines.md)
   * [Virtual Event Participation Guidelines](network-policies/virtual-event-participation-guidelines.md)
   * [Working Group Financial Guidelines](network-policies/working-group-financial-guidelines.md)
   * [Collaboration Agreement](network-policies/collaboration-agreement.md)

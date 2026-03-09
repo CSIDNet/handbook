@@ -1,8 +1,8 @@
-# Virtual Event Participation Guidelines
+---
+description: Updated on March 4, 2025
+---
 
-| **Version** | **Date Updated** | **Description of Changes** |
-| ----------- | ---------------- | -------------------------- |
-| 1.0         | March 4, 2025    | <p><br></p>                |
+# Virtual Event Participation Guidelines
 
 CSID Network is committed to creating and maintaining an environment where everyone is welcomed, respected, and supported. We want everyone to have an opportunity to participate and contribute, and to be valued for their skills, experience, and unique perspectives.
 

@@ -1,12 +1,8 @@
+---
+description: Updated on November 14, 2025
+---
+
 # Open Sharing Policy
-
-
-
-| **Version** | **Date Updated** | **Description of Changes**                                   |
-| ----------- | ---------------- | ------------------------------------------------------------ |
-| 1.0         | October 2, 2025  | Drafted by staff - Ragıp Zık and Irene Ramos                 |
-| 2.0         | October 31, 2025 | Revised by collective discussion within Governance committee |
-| 3.0         | Nov 14, 2025     | Ratified by Governance Committee                             |
 
 ### &#x20;**1. Purpose**
 

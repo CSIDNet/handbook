@@ -1,10 +1,8 @@
-# Formation and Dissolution of the Committees Policy
+---
+description: Updated on November 28, 2025
+---
 
-| **Version** | **Date Updated** | **Description of Changes**       |
-| ----------- | ---------------- | -------------------------------- |
-| 1.0         | Oct 22, 2025     | Drafted by Governance Committee  |
-| <p><br></p> | Nov 28, 2025     | Ratified by Governance Committee |
-| <p><br></p> | <p><br></p>      | <p><br></p>                      |
+# Formation and Dissolution of the Committees Policy
 
 ### **Purpose**
 
