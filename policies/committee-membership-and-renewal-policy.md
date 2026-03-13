@@ -8,7 +8,7 @@ As of April 1, 2025, CSIDNet has 8 network committees with 44 members who have c
 
 ### 1. Member Eligibility
 
-Members must remain in good standing with CSIDNet at the time of their appointment and throughout their term to be eligible for appointment to a committee.<br>
+Members must remain in good standing with CSIDNet at the time of their appointment and throughout their term to be eligible for appointment to a committee.
 
 Diversity of disciplines, geography, institutions, and career stages is encouraged and overseen by the Appointment Committee (see Sec. 2).
 
@@ -147,7 +147,8 @@ Following elections, a list of candidates and the number of votes each received 
 1. If the potential committee member list chosen through the ranked list of candidates based on the voting is judged to be representative, the Appointment Committee will validate this list of members.
 2. If the potential committee list chosen through the ranked list of candidates based on the vote is judged to not be representative, the Appointment Committee can choose to replace the third of members who received the lowest votes with other highly ranked candidates to improve representativeness. For example:
 
-<img src="../.gitbook/assets/unknown.png" alt="" data-size="original">  \
-For updates see [this document](https://docs.google.com/presentation/d/1qJWyhIgg494JwEx6cAFHaYBdB0ZYJdZooFfNgCHRI3s/edit?usp=sharing)
+<img src="../.gitbook/assets/unknown.png" alt="" data-size="original">  <br>
+
+For updates, see [this document](https://docs.google.com/presentation/d/1qJWyhIgg494JwEx6cAFHaYBdB0ZYJdZooFfNgCHRI3s/edit?usp=sharing)
 
 The above scenario is an example for an elected committee with 6 members. Following the vote, the Appointment Committee reviews the list of the top 6 candidates and assesses the representativeness of this potential committee. They determine that the potential committee is too homogeneous following the voted list and decide to substitute one of the potential members with another highly ranked candidate. Candidates A-D (in green) are in the top ⅔ of the member list and cannot be substituted. Candidates E-F (in blue) are in the bottom ⅓ and can be substituted by another highly ranked candidate (in orange). The Appointment Committee decides to substitute Candidate F with Candidate G for the final committee membership list.
