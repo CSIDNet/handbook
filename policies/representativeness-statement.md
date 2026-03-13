@@ -4,11 +4,11 @@ description: Updated on October 21, 2025
 
 # Representativeness Statement
 
-### **Purpose of Document**
+#### **Purpose of Document**
 
 To provide a succinct statement that will be read and reminded before making decisions to help improve representation across the diverse entities and individuals in CSIDNet to uphold the [core values of the Network](https://csidnet.org/about/). E.g., committee appointment and elections, funding support, invitation to discussions. Documentation of the process to help reflect on these decisions transparently is encouraged to provide opportunities for learning and accountability (not mandated).
 
-### **Statement**
+#### **Statement**
 
 At CSIDNet, we uphold a values-driven commitment to equity, mutual care, and just, context-sensitive collaboration. To move from intention to action, we must pause to think before key decisions who is included and who may be missing. Whether in finalizing committee appointments, structuring elections, allocating funding support, or extending invitations to speaking roles, we must actively consider representation across the diverse entities and individuals within our network. We recognize that no single group can cover the full breadth of diversity, and no individual can represent the entire depth of a subgroup. Nevertheless, we CSIDNet members commit to meaningfully include diverse viewpoints, positionalities, ideas, constraints, and concerns across CSIDNet.
 
@@ -18,7 +18,3 @@ By approaching representativeness as a deliberate and ongoing practice, rather t
 
 | Amendment and Review: The Governance Committee will review the Statement annually, following committee appointments and working group funding cycles (around December). Revisions will be led and ratified by the Governance Committee, with input from entities that used the Statement during the year. |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-\
-\
-<br>
