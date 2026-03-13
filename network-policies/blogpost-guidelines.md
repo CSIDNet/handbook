@@ -2,9 +2,7 @@
 
 The Climate-Sensitive Infectious Disease Network (CSIDN) invites original, insightful, and engaging blog posts that explore the intersections of climate change and infectious disease. These posts aim to communicate emerging research, community perspectives, and policy- relevant insights to a broad, interdisciplinary audience that includes scientists, health practitioners, policymakers, journalists, and the public.
 
-
-
-&#x20;**1. Purpose and Scope**&#x20;
+#### **Purpose and Scope**&#x20;
 
 Blog posts should focus on topics relevant to climate-sensitive infectious diseases, including (but not limited to):&#x20;
 
@@ -22,11 +20,11 @@ Posts should be original and unique, contributing to the broader understanding o
 
 Please note that the Communication and Research Committee (CRC) will launch themed blogpost calls from time to time.
 
-**2. Audience and Tone**
+#### **Audience and Tone**
 
 Submissions should be written in a clear, accessible, and engaging tone, avoiding technical jargon unless necessary (and defined). The blog is intended for a diverse audience, so posts should balance scientific accuracy with readability. Aim to inform, provoke thought, and where relevant, inspire action or policy consideration.&#x20;
 
-**3. Structure and Length**&#x20;
+#### **Structure and Length**&#x20;
 
 Posts should be between 750 and 1500 words. A typical post should include:&#x20;
 
@@ -42,11 +40,11 @@ Use subheadings, short paragraphs, and other formatting tools (e.g., bold or ita
 
 For a sample blogpost, see: https://blogs.lossanddamageobservatory.org/index.php/2025/02/17/seven-years-of-climate- migration-a-tale-of-the-ghost-villages-of-the-okavango-delta/&#x20;
 
-&#x20;**4. Evidence and Referencing**
+#### **Evidence and Referencing**
 
 All posts must be factually accurate and well-supported. Authors are expected to reference credible sources, preferably by using hyperlinks within the text. Peer-reviewed articles, institutional reports (e.g., WHO, IPCC), and reputable media or grey literature are all acceptable sources.&#x20;
 
-**5. Visual Content**&#x20;
+#### **Visual Content**&#x20;
 
 Authors are encouraged to include images, videos, charts, or graphics that complement the written content.&#x20;
 
@@ -62,11 +60,11 @@ Authors are encouraged to include images, videos, charts, or graphics that compl
 
 • Videos should be submitted via URL 6.&#x20;
 
-&#x20;**6. Review and Editorial** **Process**&#x20;
+#### **Review and Editorial** **Process**&#x20;
 
 Submissions will be reviewed by the CRC and, where appropriate, external experts. Authors may receive feedback and will be notified of any necessary edits. The CRC reserves the right to edit posts for grammar, clarity, length, and consistency with the editorial style. Revisions may be requested prior to final publication.&#x20;
 
-**7. Submission Details**&#x20;
+#### **Submission Details**&#x20;
 
 • Authors must submit a short bio (2–3 sentences) and a headshot&#x20;
 
