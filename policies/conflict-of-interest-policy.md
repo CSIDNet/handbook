@@ -6,9 +6,7 @@ description: Updated on October 22, 2025
 
 **What is considered a conflict of interest (CoI)?**
 
-We understand CoI as an emergent situation when a person or organization is involved in multiple
-
-interests, financial or otherwise, and serving one interest could involve working against another.
+We understand CoI as an emergent situation when a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another.
 
 A CoI can be financial, professional, and/or personal and can be with regard to an organization or person. All members of committees as well as CSIDNet team members are asked to report any CoI’s with respect to their engagement in decision making related to CSIDNet’s strategic partnerships and procurement processes.
 

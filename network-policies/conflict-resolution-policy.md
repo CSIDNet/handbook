@@ -119,7 +119,7 @@ External mediators will be selected from qualified professionals with experience
 3\. Binding Nature\
 External mediation decisions are final and binding to all participants.
 
-**CONFIDENTIALITY**\
+**Confidentiality**\
 The Conflict Resolution Committee and review panels will not disclose individually identifiable information except as necessary for conducting the review process or as required. All proceedings will be conducted with appropriate privacy protections. &#x20;
 
 The Conflict Resolution Committee and the CSIDNet staff will prepare annual (or in another agreed sequence) anonymized reports summarizing:
@@ -130,8 +130,3 @@ The Conflict Resolution Committee and the CSIDNet staff will prepare annual (or 
 * Lessons learned for community building, management and health&#x20;
 
 These anonymized annual reports will be shared with all committees to support continuous improvement at CSIDNet. With consent from all parties, conflict summaries and resolution processes may be shared as learning resources for the wider network membership and additional trainings may be organized for members.
-
-\
-<br>
-
-<br>
