@@ -4,7 +4,7 @@ description: Updated on May 23, 2025
 
 # Honoraria and Non-Staff Compensation Policy
 
-This document provides guidelines for honoraria payments and non-staff compensation paid by the CSID Network. Honoraria are paid when a service is provided free-of-charge, and the CSID Network wishes to express gratitude or thanks to the person providing the service. The issuance of honoraria provides a mechanism by which the CSID Network can compensate labor for short-term, one-time engagements in the absence of formal employment or contracting agreements. <br>
+This document provides guidelines for honoraria payments and non-staff compensation paid by the CSID Network. Honoraria are paid when a service is provided free-of-charge, and the CSID Network wishes to express gratitude or thanks to the person providing the service. The issuance of honoraria provides a mechanism by which the CSID Network can compensate labor for short-term, one-time engagements in the absence of formal employment or contracting agreements.&#x20;
 
 Non-staff compensation is payment for services rendered via contracting agreement by a consultant or other professional who is not an employee, staff, or fellow of the Network. This policy outlines guidelines for these payments with the knowledge that contractor rates vary and may fall outside of the pay structure detailed below; the Network maintains the discretion to issue payment that differs from this structure if approved by the Interim Managing Director, Fundraising and Finance Committee, and/or other Network decision-making body.
 
