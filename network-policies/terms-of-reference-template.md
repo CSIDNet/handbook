@@ -1,9 +1,9 @@
 # Terms of Reference Template
 
-(Name of Standing Committee)
+#### **(Name of Standing Committee)**
 
 **Purpose**\
-(Provide a clear statement of why this committee exists and what it  aims to achieve)
+(Provide a clear statement of why this committee exists and what it aims to achieve)
 
 **Alignment with CSIDNet Mission**\
 (Explain how this committee aligns with CSIDNet's scope and mission)
