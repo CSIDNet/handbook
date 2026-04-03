@@ -19,5 +19,6 @@
   * [Representativeness Statement](policies/representativeness-statement.md)
   * [Reporting Guide and Schedule for CSID Network Committees](network-policies/reporting-guide-and-schedule-for-csid-network-committees.md)
   * [Terms of Reference Template](network-policies/terms-of-reference-template.md)
+  * [Fellow Project Fund Use Guidelines](network-policies/fellow-project-fund-use-guidelines.md)
   * [Formation and Dissolution of the Committees Policy](network-policies/formation-and-dissolution-of-the-committees-policy.md)
   * [Process for Renaming a Committee](network-policies/process-for-renaming-a-committee.md)
