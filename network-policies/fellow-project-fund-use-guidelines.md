@@ -28,7 +28,7 @@ Funds may be used for costs directly related to the fellow’s CSIDNet project, 
 
 * Organizing workshops or events relevant to the fellow’s work\*
 * Hosting local stakeholder meetings
-* Implementation costs (e.g. software development, local research assistant stipends, participant compensation) 1
+* Implementation costs (e.g. software development, local research assistant stipends, participant compensation)&#x20;
 * Travel for fieldwork or collaboration
 * Purchase of project-specific supplies
 
