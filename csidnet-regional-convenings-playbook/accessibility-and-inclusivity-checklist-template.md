@@ -1,0 +1,2 @@
+# Accessibility & Inclusivity Checklist Template
+

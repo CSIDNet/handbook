@@ -147,7 +147,7 @@ Following elections, a list of candidates and the number of votes each received 
 1. If the potential committee member list chosen through the ranked list of candidates based on the voting is judged to be representative, the Appointment Committee will validate this list of members.
 2. If the potential committee list chosen through the ranked list of candidates based on the vote is judged to not be representative, the Appointment Committee can choose to replace the third of members who received the lowest votes with other highly ranked candidates to improve representativeness. For example:
 
-<img src="../.gitbook/assets/unknown.png" alt="" data-size="original">  <br>
+<img src="../../.gitbook/assets/unknown.png" alt="" data-size="original">  <br>
 
 For updates, see [this document](https://docs.google.com/presentation/d/1qJWyhIgg494JwEx6cAFHaYBdB0ZYJdZooFfNgCHRI3s/edit?usp=sharing)
 

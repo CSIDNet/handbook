@@ -4,7 +4,7 @@ description: Updated on December 3, 2025
 
 # Membership Framework
 
-<figure><img src="../.gitbook/assets/Membership_categories.png" alt="" width="374"><figcaption><p>Decision tree for membership categories</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Membership_categories.png" alt="" width="374"><figcaption><p>Decision tree for membership categories</p></figcaption></figure>
 
 ### Membership Eligibility Requirements
 
