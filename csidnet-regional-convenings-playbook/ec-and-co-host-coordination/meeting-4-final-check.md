@@ -26,7 +26,7 @@ Current headcount: who is confirmed? Any participants who have dropped out or be
 
 Flag anyone traveling internationally whose arrangements are still at risk. Visa issues this close to the event require immediate attention.
 
-Decision point: Is there anyone whose participation is at risk and needs action from either side this week?
+* [ ] Decision point: Is there anyone whose participation is at risk and needs action from either side this week?
 
 #### 3) Program and speakers (10 min)
 
@@ -34,7 +34,7 @@ Is the program finalized? Are all speakers confirmed and briefed on their sessio
 
 Who is managing facilitation and timing on the day? Is there a run-of-show or equivalent that the team will use?
 
-Decision point: Program locked? Any sessions still at risk?
+* [ ] Decision point: Program locked? Any sessions still at risk?
 
 #### 4) On-the-day logistics (15 min)
 
@@ -44,9 +44,9 @@ Who is the single point of contact on the day for any CSIDNet-related questions?
 
 Decision points:
 
-1. Run-of-show confirmed, including who owns it and who updates it in the final days?
-2. On-the-day contact for CSIDNet confirmed?
-3. Any logistics still unresolved that need to be closed in the next week?
+* [ ] Run-of-show confirmed, including who owns it and who updates it in the final days?
+* [ ] On-the-day contact for CSIDNet confirmed?
+* [ ] Any logistics still unresolved that need to be closed in the next week?
 
 #### 5) Communications and documentation (10 min)
 
@@ -56,8 +56,8 @@ Documentation plan: is someone taking notes or photos during the event? The post
 
 Decision points:
 
-1. Final participant communication sent, or confirmed date for when it goes out?
-2. Post-event report: format, deadline, and owner confirmed?
+* [ ] Final participant communication sent, or confirmed date for when it goes out?
+* [ ] Post-event report: format, deadline, and owner confirmed?
 
 #### 6) Financial and reimbursement logistics (5 min)
 
@@ -72,3 +72,4 @@ Before closing:
 1. Confirm the open items list and who owns each one
 2. Agree on how to stay in touch in the final days (email thread, WhatsApp, a quick check-in call if needed)
 3. Confirm post-event report deadline and format one more time
+
