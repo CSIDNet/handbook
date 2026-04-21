@@ -1,2 +1,0 @@
-# Participant Registration Form
-

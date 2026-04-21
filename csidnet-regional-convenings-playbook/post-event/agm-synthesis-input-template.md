@@ -1,0 +1,2 @@
+# AGM Synthesis Input Template
+
