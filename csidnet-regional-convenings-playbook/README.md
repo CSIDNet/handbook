@@ -25,3 +25,6 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * Inclusive Participation Fund
 * Questions? Reach out to operations@csidnet.org
 
+
+
+Note: French and Spanish versions of key pages are in development

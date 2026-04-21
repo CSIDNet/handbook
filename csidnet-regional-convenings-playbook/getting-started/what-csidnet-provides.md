@@ -1,6 +1,5 @@
----
-description: (Currently being drafted - Angela)
----
-
 # What CSIDNet Provides
 
+{% hint style="danger" %}
+🚧 This page is in draft. Content is being finalized and will be updated shortly
+{% endhint %}
