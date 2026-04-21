@@ -60,3 +60,7 @@ Before closing, confirm:
 2. Internal logistics lead on co-host side
 3. Any outstanding items from the application or contract that need to be resolved
 4. Date for Meeting 2 (Program and speakers). See agenda in tab 3.
+
+{% hint style="info" %}
+Next: [Meeting 2: Program & Speakers](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/Lna4yh6p1gzsZfczXpGr/csidnet-regional-convenings-playbook/ec-and-co-host-coordination/meeting-2-program-and-speakers)
+{% endhint %}
