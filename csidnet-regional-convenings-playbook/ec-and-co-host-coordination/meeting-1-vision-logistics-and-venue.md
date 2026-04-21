@@ -4,8 +4,6 @@
 Before this meeting, review the [Master Planning Checklist](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/4LZpMOVG9rwmydEDCd45/csidnet-regional-convenings-playbook/ec-and-co-host-coordination/master-planning-checklist) and flag any open items for discussion
 {% endhint %}
 
-### Meeting 1: Big Picture Vision, Logistics, and Venue
-
 Suggested length: 75 minutes Who's in the room: EC lead, co-host primary contact (and venue/logistics lead if different)
 
 Date/Time:
