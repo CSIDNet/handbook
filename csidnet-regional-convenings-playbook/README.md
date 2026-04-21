@@ -16,3 +16,12 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * **1 week out**: full program walkthrough with Events Committee, printed materials ready
 * **Within 30 days post-event**: narrative report + financial documentation due
 {% endhint %}
+
+#### C. Quick Links
+
+* Master Planning Checklist
+* Participant Registration Form
+* Accessibility & Inclusivity Checklist
+* Inclusive Participation Fund
+* Questions? Reach out to operations@csidnet.org
+
