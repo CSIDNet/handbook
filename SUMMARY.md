@@ -24,7 +24,7 @@
     * [Process for Renaming a Committee](readme/network-policies/process-for-renaming-a-committee.md)
 * [CSIDNet Regional Convenings Playbook](csidnet-regional-convenings-playbook/README.md)
   * [Getting Started](csidnet-regional-convenings-playbook/getting-started/README.md)
-    * [Your Responsibilities](csidnet-regional-convenings-playbook/getting-started/your-responsibilities.md)
+    * [Roles & Responsibilities](csidnet-regional-convenings-playbook/getting-started/roles-and-responsibilities.md)
     * [What CSIDNet Provides](csidnet-regional-convenings-playbook/getting-started/what-csidnet-provides.md)
     * [Planning Timeline & Milestones](csidnet-regional-convenings-playbook/getting-started/planning-timeline-and-milestones.md)
   * [EC & Co-host Coordination](csidnet-regional-convenings-playbook/participant-registration-form.md)
