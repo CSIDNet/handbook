@@ -36,6 +36,7 @@
   * [Program & Logistics](csidnet-regional-convenings-playbook/program-and-logistics/README.md)
     * [Sample Agenda Template](csidnet-regional-convenings-playbook/sample-agenda-template.md)
     * [Accessibility & Inclusivity Checklist Template](csidnet-regional-convenings-playbook/accessibility-and-inclusivity-checklist-template.md)
+    * [Risk Registry Template](csidnet-regional-convenings-playbook/program-and-logistics/risk-registry-template.md)
     * [Visa Processing Framework](csidnet-regional-convenings-playbook/program-and-logistics/visa-processing-framework.md)
     * [Visa Support Letter Template](csidnet-regional-convenings-playbook/program-and-logistics/visa-support-letter-template/README.md)
       * [Visa Support Letter Template](https://docs.google.com/document/d/1fW4BycAPs0XCqFI3hOrVSoaYJRBFvWagNmtsIp85ejU/edit?usp=drive_link)
