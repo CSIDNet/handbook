@@ -8,7 +8,7 @@ When you are selected as a regional co-host, CSIDNet commits the following suppo
 
 **Funding**: A fixed subaward payment confirmed in your contract. This covers your core event costs. The budget must be developed collaboratively and approved by the CSIDNet Finance Committee before disbursement.
 
-**Inclusive Participation Fund (IPF)**: CSIDNet manages the full IPF process -- application, selection, disbursement, and participant communication. You do not manage any scholarship funds or make any commitments to participants about financial support. All participant IPF questions go to operations@csidnet.org.
+**Inclusive Participation Fund (IPF)**: CSIDNet manages the full IPF process - application, selection, disbursement, and participant communication. You do not manage any scholarship funds or make any commitments to participants about financial support. All participant IPF questions go to operations@csidnet.org.
 
 **An assigned Events Committee (EC) Representative**: Each co-host is assigned one EC rep who will be your primary point of contact throughout the planning process. Your EC rep attends all four structured planning meetings with you, reviews checklists, and supports with participant outreach and program input.
 
