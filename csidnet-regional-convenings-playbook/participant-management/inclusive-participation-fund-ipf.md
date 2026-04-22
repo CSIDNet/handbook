@@ -23,7 +23,7 @@ The IPF is managed entirely by CSIDNet operations staff. Co-hosts do not manage 
 
 #### How to apply?
 
-Applications open April 29 via the registration form, close May 22. All applicants will be notified by July 1 (June 15 for Thailand). Link to the Participant Registration Form page.
+Applications open April 29 via [this registration form,](https://docs.google.com/forms/d/e/1FAIpQLScdF4qB2vYCGaVoX4PanTAgGrFxT1Ejisy1w4wfbYoPWwujww/viewform) and close on May 22. All applicants will be notified by July 1 (June 15 for Thailand).&#x20;
 
 #### Key dates
 
