@@ -1,5 +1,7 @@
 # Risk Registry Template
 
+_A copy of this checklist will be saved in each Events' Google Drive folder for customization and use._
+
 #### Risk: Visa delays or denials for participants
 
 Risk type: Safety / Delivery
@@ -86,7 +88,7 @@ Escalation trigger: Breach of agreed accessibility standards
 
 #### Risk: Workload exceeds Events or Finance Committee Capacity
 
-Risk type:&#x20;
+Risk type:
 
 Likelihood: High
 
@@ -98,7 +100,7 @@ Owner: CSIDNet staff and Events Committee
 
 Escalation trigger: very short turnaround deadlines, low or missed committee meetings attendance / participation
 
-#### Risk: Technical disruptions during the event&#x20;
+#### Risk: Technical disruptions during the event
 
 Risk type: Delivery
 
