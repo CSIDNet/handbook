@@ -4,13 +4,11 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 
 #### A. Start Here
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>I'm a Co-host </td><td><a href="getting-started/">getting-started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="participant-registration-form.md">participant-registration-form.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>I'm a Co-Host</td><td><a href="getting-started/">getting-started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="participant-registration-form.md">participant-registration-form.md</a></td></tr></tbody></table>
 
 #### B. Key Dates Callout
 
 {% hint style="info" %}
-
-
 * **8 weeks out**: venue confirmed, speakers contacted, visa letters sent, registration opens
 * **4 weeks out**: all bookings confirmed, risks assessed, waiting list ready
 * **1 week out**: full program walkthrough with Events Committee, printed materials ready
@@ -19,12 +17,10 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 
 #### C. Quick Links
 
-* [Master Planning Checklist]
-* Participant Registration Form
-* Accessibility & Inclusivity Checklist
-* Inclusive Participation Fund
-* Questions? Reach out to operations@csidnet.org
+* [Master Planning Checklist](ec-and-co-host-coordination/master-planning-checklist.md)
+* [Participant Registration Form](participant-management/participant-registration-form.md)
+* [Accessibility & Inclusivity Checklist](accessibility-and-inclusivity-checklist-template.md)
+* [Inclusive Participation Fund](participant-management/inclusive-participation-fund-ipf.md)
+* **Questions?** Reach out to [operations@csidnet.org](https://email:operations@csidnet.org)
 
-
-
-Note: French and Spanish versions of key pages are in development
+_Note: French and Spanish versions of key pages are in development_
