@@ -18,7 +18,7 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 #### C. Quick Links
 
 * [Master Planning Checklist](ec-and-co-host-coordination/master-planning-checklist.md)
-* [Participant Registration Form](participant-management/participant-registration-form.md)
+* [Participant Registration Form](participant-management/participant-registration-form/)
 * [Accessibility & Inclusivity Checklist](accessibility-and-inclusivity-checklist-template.md)
 * [Inclusive Participation Fund](participant-management/inclusive-participation-fund-ipf.md)
 * **Questions?** Reach out to [operations@csidnet.org](https://email:operations@csidnet.org)
