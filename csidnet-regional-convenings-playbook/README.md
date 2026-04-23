@@ -19,7 +19,7 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 
 #### C. Quick Links
 
-* Master Planning Checklist
+* [Master Planning Checklist]([url](https://csidnet.gitbook.io/csidnet-handbook/csidnet-regional-convenings-playbook/ec-and-co-host-coordination/master-planning-checklist))
 * Participant Registration Form
 * Accessibility & Inclusivity Checklist
 * Inclusive Participation Fund
