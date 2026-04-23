@@ -2,15 +2,11 @@
 
 #### Venue & Physical Accessibility
 
-* [ ] Is the venue reserved?
-* [ ] Have venue details been shared with attendees (e.g., venue, hall name, Google Maps location, etc)
 * [ ] Is the venue wheelchair accessible (e.g., ramps, elevators, wide doorways, comfortable seating with back support)?
 * [ ] Are accessible restrooms available and clearly marked?
 * [ ] Is there reserved seating for participants with mobility needs?
-* [ ] Has the room setup been arranged?
-* [ ] Are breakout spaces/rooms available for collaborative sessions? (if applicable)
 * [ ] Is there clear signage inside and outside the venue?
-* [ ] Is there a quiet prayer/low-stimulation space available?&#x20;
+* [ ] Is there a quiet prayer/low-stimulation space available?
 * [ ] Are there sufficient charging ports for mobile devices and other electrical appliances?
 * [ ] Have we confirmed emergency evacuation accessibility procedures?
 * [ ] Is there on-site support staff briefed on accessibility?
@@ -19,12 +15,11 @@
 
 * [ ] Have dietary requirements/restrictions been collected and confirmed for all attendees?
 * [ ] Has the venue/caterer confirmed accommodation of:
-* [ ] Food allergies (nut-free, gluten-free, etc.)
-* [ ] Halal meals
-* [ ] Vegetarian/vegan/kosher options
-* [ ] Other medical dietary needs/preferences
+  * [ ] Food allergies (nut-free, gluten-free, etc.)
+  * [ ] Halal meals
+  * [ ] Vegetarian/vegan/kosher options
+  * [ ] Other medical dietary needs/preferences
 * [ ] Are all food items clearly labeled?
-* [ ] Has the final menu been reviewed and approved?
 
 #### Language & Interpretation
 
@@ -33,16 +28,16 @@
 * [ ] Have interpreters been booked and confirmed? (If applicable)
 * [ ] Have backup interpreters been arranged in case of last-minute issues? (e.g., in-house team)
 * [ ] Are headsets/interpretation equipment arranged? (Optional)
-* [ ] Have written materials been translated?&#x20;
-* [ ] Agenda
-* [ ] Slides
-* [ ] Key documents
+* [ ] Have written materials been translated?
+  * [ ] Agenda
+  * [ ] Slides
+  * [ ] Key documents
 * [ ] Is there a plan for multiple simultaneous sessions needing interpretation? (If applicable)
 
 #### Communication Accessibility
 
 * [ ] Is there a technical support team/point of contact available?
-* [ ] Are all presentation devices tested and functioning? (e.g., projectors, screens, etc.)&#x20;
+* [ ] Are all presentation devices tested and functioning? (e.g., projectors, screens, etc.)
 * [ ] Have we done a sound check?
 * [ ] Are slides readable?
 * [ ] Are videos captioned?
@@ -62,14 +57,14 @@
 * [ ] Does the platform support live captioning?
 * [ ] If yes, have we shared instructions on enabling captioning for virtual attendees?
 * [ ] Are interpretation channels set up for multiple languages (if applicable)
-* [ ] Is the session being recorded?&#x20;
+* [ ] Is the session being recorded?
 * [ ] Will recordings be shared afterward?
-* [ ] If yes, prepare resources (e.g., slides, recording, etc)
+  * [ ] If yes, prepare resources (e.g., slides, recording, etc)
 * [ ] Are materials shared in advance?
 * [ ] Are chat and Q\&A functions accessible and monitored by a designated point of contact?
 * [ ] Is there an alternate medium available in case of a power or internet outage? (e.g., mobile hotspot)
 
-#### Participant Logistics & Visa&#x20;
+#### Participant Logistics & Visa
 
 * [ ] Have we confirmed which participants require childcare/caregiving support?
 * [ ] Have we clarified what type of support would be most helpful?
@@ -109,4 +104,3 @@
 * [ ] Participant logistics confirmed (e.g., transport, visas, childcare/childgiving)
 * [ ] Consent and media compliance reconfirmed
 * [ ] Contingency plans reviewed (e.g., power outages, connectivity, emergency procedures)
-* [ ] Final walkthrough or rehearsal completed
