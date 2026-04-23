@@ -8,7 +8,7 @@ Optional add-ons/adaptation tips
 * Evening social activity: Plan a cultural excursion or community dinner to build trust and highlight regional unique aspects.
 * Resource mapping: Use a visual format (e.g., sticky‑note wall or digital board) to map resources and commitments, making it easier to identify collaboration opportunities.
 
-### Sample 1 ‑ Day Agenda (8 hours)
+### Sample 1 Day Agenda (8 hours)
 
 08:30‑09:00 – Arrival & registration: informal coffee/tea and check‑in.
 
@@ -34,7 +34,7 @@ Optional add-ons/adaptation tips
 
 17:00‑17:30 – Closing & reflection: collect feedback and summarise the day’s achievements.
 
-### Sample 1.5 ‑ Day Agenda (12 hours)
+### Sample 1.5 Day Agenda (12 hours)
 
 **Day 1 (evening)**
 
@@ -72,7 +72,7 @@ Optional add-ons/adaptation tips
 
 16:00‑16:30 – Closing & next steps: share action plans, summarise commitments and outline follow‑up.
 
-### Sample 2 ‑ Day Agenda (16 hours)
+### Sample 2 Day Agenda (16 hours)
 
 **Day 1**
 
@@ -119,8 +119,6 @@ Optional add-ons/adaptation tips
 15:45‑16:30 – Closing plenary & next steps: summarise outcomes, outline follow‑up actions and gather feedback.
 
 16:30‑17:00 – Departure & informal networking.
-
-
 
 **Using the Worksheet to Connect Goals and Activities**
 
