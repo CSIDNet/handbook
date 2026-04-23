@@ -1,5 +1,7 @@
 # Accessibility & Inclusivity Checklist Template
 
+A copy of this checklist will be saved in each Events' Google Drive folder for customization and use.
+
 #### Venue & Physical Accessibility
 
 * [ ] Is the venue wheelchair accessible (e.g., ramps, elevators, wide doorways, comfortable seating with back support)?
