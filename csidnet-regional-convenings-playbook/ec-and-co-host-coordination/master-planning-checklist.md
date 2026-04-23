@@ -1,6 +1,8 @@
 # Master Planning Checklist
 
-This checklist covers everything that needs to be planned, confirmed, and executed for a CSIDNet regional co-hosted event. It is owned jointly by the co-host team and the assigned EC representative. Items are organized by phase. Check off each item when confirmed, not when it is in progress.
+This checklist covers everything that needs to be planned, confirmed, and executed for a CSIDNet regional co-hosted event. It is owned jointly by the co-host team and the assigned EC representative. Items are organized by phase.
+
+**Each team has a copy of this checklist saved in your Event's Google Drive Folder.** Check off each item in your check-list when confirmed (not when it is in progress).
 
 Owner abbreviations: CH = co-host team | EC = Events Committee rep | BOTH = both parties
 
