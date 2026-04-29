@@ -6,9 +6,9 @@ The CSIDNet WhatsApp Community is a space for Committees, Working Groups (WG), a
 
 * Committees and Working Groups. Each Committee and WG has its own preferences for which communication channels to use and what type of information should be shared where. Please check your Committee or WG guidelines. In general:
 * WhatsApp: short updates, announcements, reminders.
-* Email: document sharing, feedback requests, decision making.&#x20;
-* Staff support. Email [operations@csidnet.org](mailto:operations@csidnet.org) or get in touch with the Committee staff point of contact.
-* Community-wide. [Our listserv](https://csidnet.org/about/join/) on [Groups.io](http://groups.io) is the best way to reach all CSIDNet members.
+* Email: document sharing, feedback requests, decision making.
+* Staff support: Email [operations@csidnet.org](mailto:operations@csidnet.org) or get in touch with the Committee staff point of contact.
+* Community-wide: [Our listserv](https://csidnet.org/about/join/) on [Groups.io](http://groups.io) is the best way to reach all CSIDNet members.
 
 #### Respect and inclusivity
 
@@ -48,7 +48,7 @@ This guideline is partially adapted from [OLS Slack Guidelines](https://we-are-o
 
 **Communication channels**
 
-Each Committee & WG has its own preferences!&#x20;
+Each Committee & WG has its own preferences!
 
 In general:
 
