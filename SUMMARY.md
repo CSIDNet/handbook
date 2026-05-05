@@ -27,7 +27,7 @@
     * [Roles & Responsibilities](csidnet-regional-convenings-playbook/getting-started/roles-and-responsibilities.md)
     * [What CSIDNet Provides](csidnet-regional-convenings-playbook/getting-started/what-csidnet-provides.md)
     * [Planning Timeline & Milestones](csidnet-regional-convenings-playbook/getting-started/planning-timeline-and-milestones.md)
-  * [EC & Co-host Coordination](csidnet-regional-convenings-playbook/participant-registration-form.md)
+  * [EC & Co-host Coordination](csidnet-regional-convenings-playbook/ec-and-co-host-coordination/README.md)
     * [Meeting 1: Vision, Logistics & Venue](csidnet-regional-convenings-playbook/ec-and-co-host-coordination/meeting-1-vision-logistics-and-venue.md)
     * [Meeting 2: Program & Speakers](csidnet-regional-convenings-playbook/ec-and-co-host-coordination/meeting-2-program-and-speakers.md)
     * [Meeting 3: IPF & Participant Selection](csidnet-regional-convenings-playbook/ec-and-co-host-coordination/meeting-3-ipf-and-participant-selection.md)
