@@ -8,13 +8,13 @@ You're co-hosting a CSIDNet regional convening in 2026. We've been developing a 
 * This is optional. Your event runs the same either way.
 * You have veto power over every sponsor.
 * CSIDNet does the work (outreach, paperwork, vetting).
-* Money first recoups CSIDNet's \~$10K contribution; surplus splits 50/50.
+* Money first recoups CSIDNet's \~financial contribution towards the event budget; surplus splits 50/50.
 * We'll reach out 14-16 weeks before your event. No action needed now.
 {% endhint %}
 
-#### What this is — and isn't
+#### What this is and isn't
 
-**What this is:** primarily, fundraising for CSIDNet. The first money raised from sponsors recoups CSIDNet's contribution to your event (we typically underwrite around $10,000 per event in costs and coordination). Any surplus above that is split 50/50 between CSIDNet and your organization. CSIDNet's share goes into the broader network — coordination capacity, future programming, and the field-building work that benefits all members.
+**What this is:** primarily, fundraising for CSIDNet. The first money raised from sponsors recoups CSIDNet's contribution to your event (we typically supported around $10,000 per event in costs and coordination). Any surplus above the initial CSIDNet financial support for the event is split 50/50 between CSIDNet and your organization. CSIDNet's share goes into the broader network including coordination capacity, future programming, and the field-building work that benefits all members.
 
 **What this isn't:** a way to make your event bigger, longer, or more elaborate. Your event is already fully funded between Wellcome Trust (CSIDNet's program funder), your in-kind co-host contribution, and CSIDNet's underwriting. Sponsorship doesn't change the size, scope, or content of your convening.
 
@@ -121,4 +121,4 @@ Tell us. We're flexible. The strategy is a starting point, not a mandate.
 Anything unclear, anything you want to discuss, or any concerns about specific sponsors:
 
 * **Dr. Angela Okune** — Head of Strategy, CSIDNet — [angela@csidnet.org](mailto:angela@csidnet.org)
-* **Ragıp Zık** — Head of Strategy, CSIDNet — [ragip@csidnet.org](mailto:ragip@csidnet.org)
+* **Ragıp Zık** — Head of Operations, CSIDNet — [ragip@csidnet.org](mailto:ragip@csidnet.org)
