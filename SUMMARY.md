@@ -47,9 +47,11 @@
   * [Policies & Guidelines](csidnet-regional-convenings-playbook/policies-and-guidelines/README.md)
     * [Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/ASKLNrIa4n15urcdSbQp/readme/network-policies/code-of-conduct)
     * [In-person Event Participation Guidelines](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/ASKLNrIa4n15urcdSbQp/readme/network-policies/in-person-event-participation-guidelines)
+  * [Sponsorships](csidnet-regional-convenings-playbook/sponsorships.md)
   * [Post-Event](csidnet-regional-convenings-playbook/post-event/README.md)
     * [Deliverables & Deadlines](csidnet-regional-convenings-playbook/post-event/deliverables-and-deadlines.md)
     * [Post-Event Report Template](csidnet-regional-convenings-playbook/post-event/post-event-report-template.md)
     * [Participant Feedback Survey](csidnet-regional-convenings-playbook/post-event/participant-feedback-survey.md)
     * [AGM Synthesis Input Template](csidnet-regional-convenings-playbook/post-event/agm-synthesis-input-template.md)
     * [Event Branding Pack](csidnet-regional-convenings-playbook/post-event/event-branding-pack.md)
+
