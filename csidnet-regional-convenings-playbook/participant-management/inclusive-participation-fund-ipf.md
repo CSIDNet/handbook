@@ -23,19 +23,22 @@ The IPF is managed by CSIDNet Finance Committee and operations staff. Co-hosts s
 
 #### How to apply?
 
-The Expression of Interest and Inclusive Participation Fund applications share a **single deadline per region**, set approximately 12 weeks before each event. Applications open across all regions on **May 8, 2026** (target, contingent on co-host contracts and the announcement blog post). Applicants apply via [the Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqg5FX5VYoLktGdQiosJEbVVvT2CCAhB4Tnhp8YgpxdYe9vA/viewform) and the linked [IPF application](https://docs.google.com/forms/d/e/1FAIpQLScdF4qB2vYCGaVoX4PanTAgGrFxT1Ejisy1w4wfbYoPWwujww/viewform).
+The Expression of Interest and Inclusive Participation Fund applications share a **single deadline per region**, set approximately 12 weeks before each event. Applications open across all regions on **May 8, 2026** (target, contingent on co-host contracts and the announcement blog post). Both forms are available in English, French, and Spanish:
+
+* Expression of Interest: [English](https://docs.google.com/forms/d/e/1FAIpQLSdqg5FX5VYoLktGdQiosJEbVVvT2CCAhB4Tnhp8YgpxdYe9vA/viewform) | [Français](https://docs.google.com/forms/d/e/1FAIpQLSfD0KXU_VHsnMD7u0VVNO3NjSDhHqFRIfY16YweZrEcWYxdVA/viewform) | [Español](https://docs.google.com/forms/d/1XskA2HTmiqwY08qAd1tqpcB5FjJrhSz6StGayRHDe_Y/viewform)
+* IPF Application: [English](https://docs.google.com/forms/d/e/1FAIpQLScdF4qB2vYCGaVoX4PanTAgGrFxT1Ejisy1w4wfbYoPWwujww/viewform) | [Français](https://docs.google.com/forms/d/1r0pcvHxTKiKAWnb2Psi64xsnq6QZfcpMwD5hv1xDEI0/viewform) | [Español](https://docs.google.com/forms/d/1PKB6oVrCGmKLZf5jEOK_V9UvSODPtwicvpb2zbqMT80/viewform)
 
 Applicants are notified of outcomes within four weeks of their region's deadline (target: deadline + 3 weeks).
 
 #### Key dates by region
 
-| Region     | Event date         | App opens   | Application deadline | Notification target |
-| ---------- | ------------------ | ----------- | -------------------- | -------------------- |
-| Thailand   | Jul 22-24          | May 8, 2026 | May 28, 2026         | June 10, 2026       |
-| Bangladesh | mid-August         | May 8, 2026 | May 28, 2026         | June 15, 2026       |
-| Kenya      | early September    | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
-| Colombia   | mid/late September | May 8, 2026 | Jul 9, 2026          | July 27, 2026       |
-| Cameroon   | Oct 27-29          | May 8, 2026 | Aug 6, 2026          | Aug 24, 2026        |
+| Region     | Event date          | App opens   | Application deadline | Notification target |
+| ---------- | -------------------- | ----------- | -------------------- | --------------------- |
+| Thailand   | Jul 22-24           | May 8, 2026 | May 28, 2026         | June 10, 2026       |
+| Bangladesh | mid-August          | May 8, 2026 | May 28, 2026         | June 15, 2026       |
+| Kenya      | early September     | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
+| Colombia   | mid/late September  | May 8, 2026 | Jul 9, 2026          | July 27, 2026       |
+| Cameroon   | Oct 27-29           | May 8, 2026 | Aug 6, 2026          | Aug 24, 2026        |
 
 #### Review process at a glance
 
