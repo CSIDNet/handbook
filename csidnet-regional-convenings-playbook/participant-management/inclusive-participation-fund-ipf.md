@@ -18,7 +18,7 @@ This fund provides needs-based, flexible support to enable meaningful engagement
 #### Who manages the IPF?
 
 {% hint style="warning" %}
-The IPF is managed by CSIDNet Finance Committee and operations staff. Co-hosts do not manage funds, assess applications, or make commitments to participants about financial support. Direct all participant questions about the IPF to operations@csidnet.org
+The IPF is managed by CSIDNet Finance Committee and operations staff. Co-hosts should not make any promises or commitments to participants about financial support. Direct all participant questions about the IPF to operations@csidnet.org
 {% endhint %}
 
 #### How to apply?
