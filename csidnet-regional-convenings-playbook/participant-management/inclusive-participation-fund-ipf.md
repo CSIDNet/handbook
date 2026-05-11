@@ -32,13 +32,13 @@ Applicants are notified of outcomes within four weeks of their region's deadline
 
 #### Key dates by region
 
-| Region     | Event date          | App opens   | Application deadline | Notification target |
-| ---------- | -------------------- | ----------- | -------------------- | --------------------- |
-| Thailand   | Jul 22-24           | May 8, 2026 | May 28, 2026         | June 10, 2026       |
-| Bangladesh | mid-August          | May 8, 2026 | May 28, 2026         | June 15, 2026       |
-| Kenya      | early September     | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
-| Colombia   | mid/late September  | May 8, 2026 | Jul 9, 2026          | July 27, 2026       |
-| Cameroon   | Oct 27-29           | May 8, 2026 | Aug 6, 2026          | Aug 24, 2026        |
+| Region     | Event date         | App opens   | Application deadline | Notification target |
+| ---------- | ------------------ | ----------- | -------------------- | ------------------- |
+| Thailand   | Jul 22-24          | May 8, 2026 | May 28, 2026         | June 10, 2026       |
+| Bangladesh | mid-August         | May 8, 2026 | May 28, 2026         | June 15, 2026       |
+| Kenya      | early September    | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
+| Colombia   | mid/late September | May 8, 2026 | June 30, 2026        | July 27, 2026       |
+| Cameroon   | Oct 27-29          | May 8, 2026 | Aug 6, 2026          | Aug 24, 2026        |
 
 #### Review process at a glance
 
@@ -57,7 +57,7 @@ For each region, the review process runs in four stages, anchored on each region
       3. July 9 - Kenya
       4. July 23 - Colombia
       5. Aug 20 - Cameroon
-4. **Staff validation and notification** (within ~1 week of panel selection): confirms selections are within regional allocations; all applicants notified by the regional notification target.
+4. **Staff validation and notification** (within \~1 week of panel selection): confirms selections are within regional allocations; all applicants notified by the regional notification target.
 
 Registration deadlines for selected participants are set per region (typically within 2 weeks after notification). Co-hosts will communicate region-specific registration deadlines after notifications are issued.
 
