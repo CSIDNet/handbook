@@ -36,7 +36,7 @@ Applicants are notified of outcomes within four weeks of their region's deadline
 | ---------- | ------------------ | ----------- | -------------------- | ------------------- |
 | Thailand   | Jul 22-24          | May 8, 2026 | May 28, 2026         | June 10, 2026       |
 | Bangladesh | mid-August         | May 8, 2026 | May 28, 2026         | June 15, 2026       |
-| Kenya      | early September    | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
+| Kenya      | August             | May 8, 2026 | Jun 25, 2026         | July 13, 2026       |
 | Colombia   | mid/late September | May 8, 2026 | June 30, 2026        | July 27, 2026       |
 | Cameroon   | Oct 27-29          | May 8, 2026 | Aug 6, 2026          | Aug 24, 2026        |
 
