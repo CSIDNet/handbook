@@ -52,7 +52,7 @@ For each region, the review process runs in four stages, anchored on each region
    4. Aug 13 - FC meeting to confirm Cameroon shortlist
 3. **Event-level panel selection** (Meeting 3 - co-host + EC representative): panel reviews the FC shortlist and selects the final cohort based on relevance, contribution, and cohort balance.
    1. Suggested dates for Meeting 3 <mark style="color:$primary;">**<- please schedule these at your earliest convenience**</mark>
-      1. June 8 - Thailand
+      1. May 25 - Thailand
       2. June 11 - Bangladesh
       3. July 9 - Kenya
       4. July 23 - Colombia
