@@ -29,16 +29,18 @@ Applications open across all regions on **May 8, 2026** (target, contingent on c
 
 #### Key dates by region
 
-| Region     | Event date     | App opens   | Application deadline | Notification target | Pre-event buffer |
-| ---------- | -------------- | ----------- | -------------------- | ------------------- | ---------------- |
-| Thailand   | Jul 22–24      | May 8, 2026 | May 28, 2026         | June 10, 2026       | 6 weeks          |
-| Bangladesh | mid-August     | May 8, 2026 | May 28, 2026         | June 15, 2026       | 8 weeks 5 days   |
-| Kenya      | early September| May 8, 2026 | June 25, 2026        | July 13, 2026       | 8 weeks          |
-| Colombia   | mid/late September | May 8, 2026 | July 9, 2026     | July 27, 2026       | 8 weeks          |
-| Cameroon   | Oct 27–29      | May 8, 2026 | August 6, 2026       | August 24, 2026     | 9 weeks 1 day    |
+| Region     | Event date          | App opens   | Application deadline | Notification target | Pre-event buffer |
+| ---------- | ------------------- | ----------- | -------------------- | ------------------- | ---------------- |
+| Thailand   | Jul 22–24           | May 8, 2026 | May 28, 2026         | June 10, 2026       | 6 weeks          |
+| Bangladesh | Sept 13–24 (TBD)    | May 8, 2026 | May 28, 2026         | June 15, 2026       | 13+ weeks        |
+| Kenya      | Aug 27–28           | May 8, 2026 | June 11, 2026        | June 30, 2026       | 8 weeks 2 days   |
+| Colombia   | mid/late September  | May 8, 2026 | June 30, 2026        | July 27, 2026       | 8 weeks          |
+| Cameroon   | Oct 27–29           | May 8, 2026 | August 6, 2026       | August 24, 2026     | 9 weeks 1 day    |
+
+_Revised May 12, 2026: Kenya event confirmed Aug 27–28 (deadline moved to Jun 11, notification to Jun 30); Colombia deadline moved to Jun 30 per co-host request; Bangladesh event moved to Sept 13–24 (IPF timeline unchanged)._
 
 {% hint style="info" %}
-**Thailand and Bangladesh share an early deadline (May 28).** This is because Thailand has the earliest event date and Bangladesh's review is consolidated onto the same Finance Committee shortlist meeting. The Bangladesh notification still gives 8+ weeks of pre-event notice; Thailand at 6 weeks is the structural minimum given the event date.
+**Thailand and Bangladesh share an early deadline (May 28).** This is because Thailand has the earliest event date and Bangladesh's review is consolidated onto the same Finance Committee shortlist meeting. The Bangladesh notification gives 13+ weeks of pre-event notice (event moved to Sept 13–24); Thailand at 6 weeks is the structural minimum given the event date.
 {% endhint %}
 
 #### Review process at a glance
