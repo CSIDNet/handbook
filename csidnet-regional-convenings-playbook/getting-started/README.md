@@ -16,14 +16,6 @@ Welcome! You've been selected as a CSIDNet 2026 regional co-host. Here is what h
 
 **Step 5: Schedule your four planning meetings.** Work with your EC rep to schedule all four planning meetings as early as possible. Dates should be confirmed within two weeks of signing. Templates and agendas for each meeting are in the EC-Co-Host Coordination section.
 
-|           | Thailand               | Kenya                 | Bangladesh          | Colombia              | Cameroon              |
-| --------- | ---------------------- | --------------------- | ------------------- | --------------------- | --------------------- |
-| Event     | 22-24 -July            | 27-28 August          | mid-September       | late September        | 27-29 October         |
-| Meeting 1 | late Feb - early Mar   | mid-Apr - early May   | mid-Apr - early May | mid-Apr - early May   | mid-May - early June  |
-| Meeting 2 | mid-Apr                | mid-June              | mid-June            | mid-June              | mid-July              |
-| Meeting 3 | May 28 - June 1        | May 28 - June 6       | May 28 - June 6     | May 28 - June 6       | May 28 - June 6       |
-| Meeting 4 | late June - early July | late July - early Aug | late Aug            | late Aug - early Sept | late Sept - early Oct |
-
 **Step 6: Confirm your event dates.** Your event dates must be confirmed with CSIDNet before any venue is booked. Check with your EC rep that your dates don't conflict with other regional events or CSIDNet commitments.
 
 **Step 7: Finalize venue.** Once dates are confirmed, finalize venue scouting. Use the Accessibility & Inclusivity Checklist to assess any venue before booking. Venue must be confirmed at least 8 weeks before the event.
