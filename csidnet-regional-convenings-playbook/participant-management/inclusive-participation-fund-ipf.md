@@ -32,15 +32,15 @@ Applications open across all regions on **May 8, 2026** (target, contingent on c
 | Region     | Event date          | App opens   | Application deadline | Notification target | Pre-event buffer |
 | ---------- | ------------------- | ----------- | -------------------- | ------------------- | ---------------- |
 | Thailand   | Jul 22–24           | May 8, 2026 | May 28, 2026         | June 10, 2026       | 6 weeks          |
-| Bangladesh | Sept 13–24 (TBD)    | May 8, 2026 | May 28, 2026         | June 15, 2026       | 13+ weeks        |
-| Kenya      | Aug 27–28           | May 8, 2026 | June 11, 2026        | June 30, 2026       | 8 weeks 2 days   |
-| Colombia   | mid/late September  | May 8, 2026 | June 30, 2026        | July 27, 2026       | 8 weeks          |
-| Cameroon   | Oct 27–29           | May 8, 2026 | August 6, 2026       | August 24, 2026     | 9 weeks 1 day    |
+| Bangladesh | Sept 13–24 (TBD)    | May 8, 2026 | June 11, 2026        | July 13, 2026       | ~8.9 weeks       |
+| Kenya      | Aug 27–28           | May 8, 2026 | June 11, 2026        | July 6, 2026        | ~7.4 weeks       |
+| Colombia   | mid/late September  | May 8, 2026 | June 30, 2026        | August 3, 2026      | ~7 weeks         |
+| Cameroon   | Oct 27–29           | May 8, 2026 | August 6, 2026       | August 31, 2026     | ~8.1 weeks       |
 
-_Revised May 12, 2026: Kenya event confirmed Aug 27–28 (deadline moved to Jun 11, notification to Jun 30); Colombia deadline moved to Jun 30 per co-host request; Bangladesh event moved to Sept 13–24 (IPF timeline unchanged)._
+_Revised May 12, 2026: Kenya event confirmed Aug 27–28 (deadline moved to Jun 11, notification to Jun 30); Colombia deadline moved to Jun 30 per co-host request; Bangladesh event moved to Sept 13–24 (IPF timeline unchanged). Revised May 13, 2026: Bangladesh deadline moved to Jun 11 per co-host request (FC moved to Jun 18, shared with Kenya); M3 dates changed to 1-week booking windows for Bangladesh, Kenya, Colombia, and Cameroon; notifications adjusted accordingly (Bangladesh Jul 13, Kenya Jul 6, Colombia Aug 3, Cameroon Aug 31)._
 
 {% hint style="info" %}
-**Thailand and Bangladesh share an early deadline (May 28).** This is because Thailand has the earliest event date and Bangladesh's review is consolidated onto the same Finance Committee shortlist meeting. The Bangladesh notification gives 13+ weeks of pre-event notice (event moved to Sept 13–24); Thailand at 6 weeks is the structural minimum given the event date.
+**Note on Thailand's deadline:** Thailand's May 28 deadline is the earliest because its event (Jul 22–24) requires a fast-track timeline — Meeting 3 runs 3–4 business days after the Jun 4 FC sync rather than the standard 1-week window. Thailand at 6 weeks of pre-event notice is the structural minimum given the event date.
 {% endhint %}
 
 #### Review process at a glance
@@ -49,7 +49,7 @@ For each region, the review process runs in four stages, anchored on each region
 
 1. **Staff pre-screen** (week after deadline): eligibility check, budget standardization, need-tier coding using three objective indicators (country income classification, institution type and funding access, individual funding access).
 2. **Finance Committee async cost scoring + sync confirmation**: FC members score shortlisted applications on a 1–4 scale against staff-prepared cost benchmarks during the pre-screen week. The next standing biweekly Finance Committee meeting (Thursdays, 17:00 Africa/Nairobi) serves as a synchronous confirmation that the shortlist is ready to hand off to the regional co-host + EC representative for Meeting 3.
-3. **Meeting 3 — Event-level panel selection** (≈1 week after FC sync; 3–4 business days for Thailand fast-track): co-host + EC representative review the FC shortlist and select the final cohort based on relevance, contribution, and cohort balance. The 1-week gap gives the panel time to review applicant detail before the meeting.
+3. **Meeting 3 — Event-level panel selection** (1-week booking window after FC sync; 3–4 business days for Thailand fast-track): co-host + EC representative review the FC shortlist and select the final cohort based on relevance, contribution, and cohort balance. The 1-week window gives the panel time to review applicant detail and schedule the session at their convenience.
 4. **Staff validation and notification** (≈2 days after Meeting 3): confirms selections are within regional allocations; all applicants notified by the regional notification target.
 
 After notification, selected applicants have **2 weeks to register**. If they do not register, waitlist applicants are invited and have **2 weeks** to register in turn. The 8-week notification target ensures both registration cycles plus visa/travel preparation can fit before each event.
