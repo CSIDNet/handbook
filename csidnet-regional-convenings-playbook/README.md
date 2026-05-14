@@ -4,7 +4,7 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 
 #### A. Start Here
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>I'm a Co-Host</td><td><a href="getting-started/">getting-started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="participant-registration-form.md">participant-registration-form.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>I'm a Co-Host</td><td><a href="getting-started/">Getting Started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="https://csidnet.gitbook.io/csidnet-handbook/csidnet-regional-convenings-playbook/ec-and-co-host-coordination">Getting Started</a></td></tr></tbody></table>
 
 #### B. Key Dates Callout
 
