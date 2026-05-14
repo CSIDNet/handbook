@@ -24,5 +24,3 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * [Accessibility & Inclusivity Checklist](accessibility-and-inclusivity-checklist-template.md)
 * [Inclusive Participation Fund](participant-management/inclusive-participation-fund-ipf.md)
 * **Questions?** Reach out to [operations@csidnet.org](https://email:operations@csidnet.org)
-
-_Note: French and Spanish versions of key pages are in development_
