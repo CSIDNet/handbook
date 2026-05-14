@@ -15,6 +15,8 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * **Within 30 days post-event**: narrative report + financial documentation due
 {% endhint %}
 
+<img width="1081" height="740" alt="Screenshot 2026-05-14 at 11 03 54 AM" src="https://github.com/user-attachments/assets/fa30bfad-5f0e-4c83-8fe4-3150ff57f42e" />
+
 #### C. Quick Links
 
 * [Master Planning Checklist](ec-and-co-host-coordination/master-planning-checklist.md)
