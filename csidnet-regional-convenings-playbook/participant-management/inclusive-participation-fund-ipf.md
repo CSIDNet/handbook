@@ -6,41 +6,61 @@ The CSIDNet Inclusive Participation Fund exists to remove financial barriers tha
 
 This fund provides needs-based, flexible support to enable meaningful engagement in both virtual and in-person events. By reducing participation barriers, the fund strengthens the diversity of voices, perspectives, and lived experiences within the network, ensuring that CSIDNet remains inclusive, representative, and mission-aligned. Funding is allocated based on demonstrated need, alignment with network goals, and available resources.
 
-#### What does the IPF cover?
+#### What can the IPF cover?
 
 * Full trip sponsorship
 * Airfare only
 * Accommodation
 * Per diem
-* Childcare support
+* Childcare or caregiving support
 * Accessibility assistance
 
 #### Who manages the IPF?
 
 {% hint style="warning" %}
-The IPF is managed entirely by CSIDNet operations staff. Co-hosts do not manage funds, assess applications, or make commitments to participants about financial support. Direct all participant questions about the IPF to operations@csidnet.org
+The IPF is managed by CSIDNet Finance Committee and operations staff. Co-hosts should not make any promises or commitments to participants about financial support. Direct all participant questions about the IPF to operations@csidnet.org
 {% endhint %}
 
 #### How to apply?
 
-The Expression of Interest and Inclusive Participation Fund applications now share a **single deadline per region**, set far enough ahead of each event to give selected participants approximately **8 weeks of notice** (covering 2-week primary registration + 2-week waitlist registration + ~4 weeks for visa, travel, and final logistics).
+The Expression of Interest and Inclusive Participation Fund applications share a **single deadline per region**, set approximately 12 weeks before each event. Applications open across all regions on **May 8, 2026** (target, contingent on co-host contracts and the announcement blog post). Both forms are available in English, French, and Spanish:
 
-Applications open across all regions on **May 8, 2026** (target, contingent on co-host contracts and the announcement blog post). Applicants apply via [the Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqg5FX5VYoLktGdQiosJEbVVvT2CCAhB4Tnhp8YgpxdYe9vA/viewform) and the linked [IPF application](https://docs.google.com/forms/d/e/1FAIpQLScdF4qB2vYCGaVoX4PanTAgGrFxT1Ejisy1w4wfbYoPWwujww/viewform).
+* Expression of Interest: [English](https://docs.google.com/forms/d/e/1FAIpQLSdqg5FX5VYoLktGdQiosJEbVVvT2CCAhB4Tnhp8YgpxdYe9vA/viewform) | [Français](https://docs.google.com/forms/d/e/1FAIpQLSfD0KXU_VHsnMD7u0VVNO3NjSDhHqFRIfY16YweZrEcWYxdVA/viewform) | [Español](https://docs.google.com/forms/d/1XskA2HTmiqwY08qAd1tqpcB5FjJrhSz6StGayRHDe_Y/viewform)
+* IPF Application: [English](https://docs.google.com/forms/d/e/1FAIpQLScdF4qB2vYCGaVoX4PanTAgGrFxT1Ejisy1w4wfbYoPWwujww/viewform) | [Français](https://docs.google.com/forms/d/1r0pcvHxTKiKAWnb2Psi64xsnq6QZfcpMwD5hv1xDEI0/viewform) | [Español](https://docs.google.com/forms/d/1PKB6oVrCGmKLZf5jEOK_V9UvSODPtwicvpb2zbqMT80/viewform)
+
+Applicants are notified of outcomes within four weeks of their region's deadline (target: deadline + 3 weeks).
 
 #### Key dates by region
 
-| Region     | Event date          | App opens   | Application deadline | Notification target | Pre-event buffer |
-| ---------- | ------------------- | ----------- | -------------------- | ------------------- | ---------------- |
-| Thailand   | Jul 22–24           | May 8, 2026 | May 28, 2026         | June 10, 2026       | 6 weeks          |
-| Bangladesh | Sept 13–24 (TBD)    | May 8, 2026 | June 11, 2026        | July 13, 2026       | ~8.9 weeks       |
-| Kenya      | Aug 27–28           | May 8, 2026 | June 11, 2026        | July 6, 2026        | ~7.4 weeks       |
-| Colombia   | mid/late September  | May 8, 2026 | June 30, 2026        | August 3, 2026      | ~7 weeks         |
-| Cameroon   | Oct 27–29           | May 8, 2026 | August 6, 2026       | August 31, 2026     | ~8.1 weeks       |
+| Region     | Event date         | App opens    | Application deadline | Notification target |
+| ---------- | ------------------ | ------------ | -------------------- | ------------------- |
+| Thailand   | Jul 22-24          | May 12, 2026 | May 28, 2026         | June 10, 2026       |
+| Bangladesh | mid-Sept           | May 12, 2026 | Jun 11, 2026         | Jul 13, 2026        |
+| Kenya      | Aug 27 - 28        | May 12, 2026 | Jun 11, 2026         | Jul 6, 2026         |
+| Colombia   | mid/late September | May 12, 2026 | June 30, 2026        | Aug 3, 2026         |
+| Cameroon   | Oct 27-29          | May 12, 2026 | Aug 6, 2026          | Aug 31, 2026        |
 
-_Revised May 12, 2026: Kenya event confirmed Aug 27–28 (deadline moved to Jun 11, notification to Jun 30); Colombia deadline moved to Jun 30 per co-host request; Bangladesh event moved to Sept 13–24 (IPF timeline unchanged). Revised May 13, 2026: Bangladesh deadline moved to Jun 11 per co-host request (FC moved to Jun 18, shared with Kenya); M3 dates changed to 1-week booking windows for Bangladesh, Kenya, Colombia, and Cameroon; notifications adjusted accordingly (Bangladesh Jul 13, Kenya Jul 6, Colombia Aug 3, Cameroon Aug 31)._
+#### Full process schedule by region (2026)
+
+The table below maps all 13 operational steps to specific dates per region. Dates marked (\*) are working assumptions derived from the locked schedule; unmarked dates are confirmed.
+
+| Step | What happens | Thailand | Kenya | Bangladesh | Colombia | Cameroon |
+| ---- | ------------ | -------- | ----- | ---------- | -------- | -------- |
+| 0 | Application deadline | May 28 | Jun 11 | Jun 11 | Jun 30 | Aug 6 |
+| 1–2 | Staff runs pre-screen; output generated\* | May 28 | Jun 11 | Jun 11 | Jun 30 | Aug 6 |
+| 3 | Pre-screen package uploaded to FC portal; FC emailed with review deadline\* | May 29 | Jun 12 | Jun 12 | Jul 1 | Aug 7 |
+| 4 | FC async review window closes; export codes due\* | Jun 1 | Jun 17 | Jun 17 | Jul 15 | Aug 12 |
+| 5 | Staff loads reviewer codes; aggregated summary shared\* | Jun 2 | Jun 17 | Jun 17 | Jul 15 | Aug 12 |
+| 6 | FC sync meeting (standing biweekly Thursday, 17:00 EAT) | Jun 4 | Jun 18 | Jun 18 | Jul 16 | Aug 13 |
+| 7–8 | Shortlist confirmed; Meeting 3 package code generated and distributed\* | Jun 5 | Jun 19 | Jun 19 | Jul 17 | Aug 14 |
+| 9 | EC Rep + co-host load code and complete async review\* | Jun 5–7 | Jun 19–25 | Jun 19–25 | Jul 17–23 | Aug 14–20 |
+| 10 | Meeting 3 — panel selection (co-host + EC rep) | Jun 8 | Jun 25–Jul 2 | Jun 25–Jul 2 | Jul 23–Jul 30 | Aug 20–Aug 27 |
+| 11 | Outputs shared with EC + staff; advice process\* | Jun 8–10 | by Jun 29 | by Jul 6 | by Jul 27 | by Aug 24 |
+| 12 | Notifications sent to all applicants | Jun 10 | Jul 6 | Jul 13 | Aug 3 | Aug 31 |
+| 13 | Registration monitoring via shared form | ongoing | ongoing | ongoing | ongoing | ongoing |
 
 {% hint style="info" %}
-**Note on Thailand's deadline:** Thailand's May 28 deadline is the earliest because its event (Jul 22–24) requires a fast-track timeline — Meeting 3 runs 3–4 business days after the Jun 4 FC sync rather than the standard 1-week window. Thailand at 6 weeks of pre-event notice is the structural minimum given the event date.
+**Notes:** Thailand runs on a fast-track exception (3–4 business day FC-to-Meeting 3 buffer vs. the standard 1 week). Kenya and Bangladesh share the Jun 18 FC sync (one meeting, two separate agenda items and shortlists). Meeting 3 dates for Bangladesh, Kenya, Colombia, and Cameroon show the available window; co-hosts and EC reps should schedule within that window at their earliest convenience.
 {% endhint %}
 
 #### Review process at a glance
@@ -48,14 +68,24 @@ _Revised May 12, 2026: Kenya event confirmed Aug 27–28 (deadline moved to Jun 
 For each region, the review process runs in four stages, anchored on each region's deadline:
 
 1. **Staff pre-screen** (week after deadline): eligibility check, budget standardization, need-tier coding using three objective indicators (country income classification, institution type and funding access, individual funding access).
-2. **Finance Committee async cost scoring + sync confirmation**: FC members score shortlisted applications on a 1–4 scale against staff-prepared cost benchmarks during the pre-screen week. The next standing biweekly Finance Committee meeting (Thursdays, 17:00 Africa/Nairobi) serves as a synchronous confirmation that the shortlist is ready to hand off to the regional co-host + EC representative for Meeting 3.
-3. **Meeting 3 — Event-level panel selection** (1-week booking window after FC sync; 3–4 business days for Thailand fast-track): co-host + EC representative review the FC shortlist and select the final cohort based on relevance, contribution, and cohort balance. The 1-week window gives the panel time to review applicant detail and schedule the session at their convenience.
-4. **Staff validation and notification** (≈2 days after Meeting 3): confirms selections are within regional allocations; all applicants notified by the regional notification target.
+2. **Finance Committee (FC) cost reasonableness review** (asynchronous): FC members independently review each shortlisted application, recording Advance / Flag / Remove decisions (with required notes for Flag and Remove) against staff-prepared cost benchmarks. The standing biweekly FC meeting after each deadline serves as a synchronous confirmation that the shortlist is ready to hand off to the panel.
+   1. June 4 - FC meeting to confirm Thailand shortlist
+   2. Jun 18  - FC meeting to confirm Kenya & Bangladesh shortlists
+   3. July 16 - FC meeting to confirm Colombia shortlist
+   4. Aug 13 - FC meeting to confirm Cameroon shortlist
+3. **Event-level panel selection** (Meeting 3 - co-host + EC representative): panel reviews the FC shortlist and selects the final cohort based on relevance, contribution, and cohort balance.
+   1. Suggested dates for Meeting 3 <mark style="color:$primary;">**<- please schedule these at your earliest convenience**</mark>
+      1. June 8 - Thailand
+      2. June 25 - Jul 2 - Bangladesh
+      3. June 25 - July 2 - Kenya
+      4. July 23 - July 30 - Colombia
+      5. Aug 20 - Aug 27 - Cameroon
+4. **Staff validation and notification** (within \~1 week of panel selection): confirms selections are within regional allocations; all applicants notified by the regional notification target.
 
-After notification, selected applicants have **2 weeks to register**. If they do not register, waitlist applicants are invited and have **2 weeks** to register in turn. The 8-week notification target ensures both registration cycles plus visa/travel preparation can fit before each event.
+Registration deadlines for selected participants are set per region (typically within 2 weeks after notification). Co-hosts will communicate region-specific registration deadlines after notifications are issued.
 
 #### Full policy
 
 {% hint style="info" %}
-For the full IPF policy, including eligibility criteria, need tiering, and the complete selection process, see [here](https://docs.google.com/document/d/17aIrM29LdyqruHkcnIcFXJNWpS0Ig_a0wp72CyHl2LA/edit).
+For the full IPF policy, including eligibility criteria, need tiering, and the complete selection process, see [here](https://docs.google.com/document/d/17aIrM29LdyqruHkcnIcFXJNWpS0Ig_a0wp72CyHl2LA/edit?tab=t.0).<br>
 {% endhint %}
