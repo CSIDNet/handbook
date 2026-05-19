@@ -16,8 +16,6 @@ Welcome! You've been selected as a CSIDNet 2026 regional co-host. Here is what h
 
 **Step 5: Schedule your four planning meetings.** Work with your EC rep to schedule all four planning meetings as early as possible. Dates should be confirmed within two weeks of signing. Templates and agendas for each meeting are in the EC-Co-Host Coordination section.
 
-<table data-header-hidden><thead><tr><th></th><th></th><th width="128"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><br></td><td><strong>Thailand</strong></td><td><strong>Bangladesh</strong></td><td><strong>Colombia</strong></td><td><strong>Kenya</strong></td><td><strong>Cameroon</strong></td></tr><tr><td>Event</td><td>mid-July</td><td>mid-August</td><td>mid-September</td><td>late September</td><td>mid-October</td></tr><tr><td>Meeting 1</td><td><mark style="background-color:$warning;"><strong>late Feb – early Mar</strong></mark></td><td><mark style="background-color:$warning;"><strong>late Mar – early Apr</strong></mark></td><td>mid-Apr – early May</td><td>mid-Apr – early May</td><td>mid-May – early June</td></tr><tr><td>Meeting 2</td><td><mark style="background-color:$warning;"><strong>mid-Apr</strong></mark></td><td>mid-May</td><td>mid-June</td><td>mid-June</td><td>mid-July</td></tr><tr><td>Meeting 3</td><td>May 28 – June 1</td><td>May 28 – June 6</td><td>May 28 – June 6</td><td>May 28 – June 6</td><td>May 28 – June 6</td></tr><tr><td>Meeting 4</td><td>late June – early July</td><td>late July</td><td>late Aug</td><td>early Sept</td><td>late Sept – early Oct</td></tr></tbody></table>
-
 **Step 6: Confirm your event dates.** Your event dates must be confirmed with CSIDNet before any venue is booked. Check with your EC rep that your dates don't conflict with other regional events or CSIDNet commitments.
 
 **Step 7: Finalize venue.** Once dates are confirmed, finalize venue scouting. Use the Accessibility & Inclusivity Checklist to assess any venue before booking. Venue must be confirmed at least 8 weeks before the event.
@@ -29,4 +27,3 @@ Welcome! You've been selected as a CSIDNet 2026 regional co-host. Here is what h
 {% hint style="success" %}
 Questions at any point? Email operations@csidnet.org or message your EC rep directly.<br>
 {% endhint %}
-

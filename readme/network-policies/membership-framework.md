@@ -8,9 +8,9 @@ description: Updated on December 3, 2025
 
 ### Membership Eligibility Requirements
 
-CSID Network (CSIDNet) is a voluntary community of Climate Sensitive Infectious Disease (CSID) researchers and practitioners, united to collaborate on the co-design, development, and maintenance of CSID tools that are relevant, accessible, and impactful. CSIDNet is coordinated by a small staff and member-leaders.&#x20;
+CSID Network (CSIDNet) is a voluntary community of Climate Sensitive Infectious Disease (CSID) researchers and practitioners, united to collaborate on the co-design, development, and maintenance of CSID tools that are relevant, accessible, and impactful. CSIDNet is coordinated by a small staff and member-leaders.
 
-Membership consists of four categories: **Core Member, Partner Organization, Supporter Member, and Supporter Organization**.&#x20;
+Membership consists of four categories: **Core Member, Partner Organization, Supporter Member, and Supporter Organization**.
 
 If you are a stakeholder represented in one of the groups listed below, have attended at least one CSIDNet event (including online), and are excited by and committed to our network values, you are eligible to become a member. Enrollment is open on a rolling basis, with quarterly onboarding sessions hosted by the Membership & Partnerships Committee.
 
@@ -37,7 +37,7 @@ All CSID Network members are expected to:
 * **Uphold CSID Network Values** – Actively promote equity, collaboration, and knowledge-sharing in all interactions.
 * **Maintain Open and Reciprocal Collaboration** – Foster partnerships based on mutual aid and respect, avoiding extractive or transactional relationships.
 
-**Code of Conduct**&#x20;
+**Code of Conduct**
 
 To support a safe and welcoming environment, all members agree to follow CSDINet’s [Code of Conduct](code-of-conduct.md). The Code of Conduct outlines expected behavior for all participants. Violations, following an investigation by the Governance Committee, may result in loss of membership. Concerns can be reported to the Advisory Committee at [advisory@csid-community.groups.io](mailto:advisory@CSID-community.groups.io).
 
@@ -77,14 +77,14 @@ _Institutions formally supporting and amplifying CSIDNet’s mission by contribu
 
 **Benefits:**
 
-* One organizational vote via a designated representative. &#x20;
+* One organizational vote via a designated representative.
 * Co-branding and logo placement on CSIDNet publications, websites, and events.
 * Ability to co-host or sponsor events; reduced event sponsorship rates, and discounted participation fees for their members.
 * Invitation to participate in collaborative proposals and joint funding applications.
 * Co-designing training and event series.
 * Showcasing of institutional work through blog features, webinars, or spotlight sessions.
 * Priority access to recruit fellows or collaborators from within the network.
-* Networking opportunities with other partner and supporter organizations.&#x20;
+* Networking opportunities with other partner and supporter organizations.
 
 #### Supporter Member
 
@@ -101,7 +101,7 @@ _Engaged participants who contribute to learning and knowledge exchange without 
 * Access to events, webinars, and community platforms.
 * Subscription to the CSIDNet newsletter.
 * Invitations to informal networking spaces, community calls, and training opportunities.
-* Recognition as a network supporter on the website, including spotlight opportunities.&#x20;
+* Recognition as a network supporter on the website, including spotlight opportunities.
 * Opportunities to join working groups or committees when space and interest align.
 * Free or discounted access to select CSIDNet events.
 
@@ -121,11 +121,11 @@ _Allies and amplifiers of CSIDNet’s mission through advocacy and informal supp
 * Opportunity to co-promote initiatives or tools with the CSIDNet brand.
 * Reduced event sponsorship rates and discounted participation fees for their members.
 * Visibility through cross-promotions (e.g., shared blog posts, co-curated resources).
-* Networking with other partner and supporter organizations.&#x20;
+* Networking with other partner and supporter organizations.
 
 ### Who participates in decision-making?
 
-Network-wide decisions, such as working group selection or committee elections, are voted on by membership tiers that contribute to CSIDNet’s governance:&#x20;
+Network-wide decisions, such as working group selection or committee elections, are voted on by membership tiers that contribute to CSIDNet’s governance:
 
 * Core members (1 vote each)
 * Partner organizations (1 vote per organization)
@@ -137,21 +137,21 @@ Partner Organizations’ votes via representatives reflect an institutional pers
 **Application & Onboarding Process**\
 Prospective members can apply through an online form on the CSIDNet website. Applications are reviewed on a rolling basis by the Membership & Partnerships Committee. The onboarding process includes:
 
-* A brief orientation on CSIDNet’s mission, structure, and expectations, in quarterly onboarding calls.&#x20;
+* A brief orientation on CSIDNet’s mission, structure, and expectations, in quarterly onboarding calls.
 * Access to communication channels and onboarding materials.
 
-Partner and supporter organizations undergo additional review by the Membership & Partnership Committee and staff to ensure alignment with CSIDNet’s missing and to avoid conflicts of interest. Partner status is formalized by the Memberships & Partnerships Committee following staff evaluation.&#x20;
+Partner and supporter organizations undergo additional review by the Membership & Partnership Committee and staff to ensure alignment with CSIDNet’s missing and to avoid conflicts of interest. Partner status is formalized by the Memberships & Partnerships Committee following staff evaluation.
 
 ### Dues Schedule
 
-Membership dues help sustain CSIDNet’s activities while keeping participation accessible. Dues vary by membership type to ensure contributions align with members’ involvement. Funds support community engagement, capacity building, shared digital infrastructure, and open access resources.&#x20;
+Membership dues help sustain CSIDNet’s activities while keeping participation accessible. Dues vary by membership type to ensure contributions align with members’ involvement. Funds support community engagement, capacity building, shared digital infrastructure, and open access resources.
 
-Dues are paid annually at the start of each membership cycle, which runs from January to December every year. Members will receive reminders before renewal deadlines.
+Dues are paid annually at the start of each membership cycle, which runs from July to June every year. Members will receive reminders before renewal deadlines.
 
 1. **Core Member**
    1. Annual Dues: $0 USD
 2. **Partner Organization**
-   1. Annual Dues: With generous support from our sponsors, Partner Organization fees are waived for 2026, but we still welcome voluntary contributions.&#x20;
+   1. Annual Dues: With generous support from our sponsors, Partner Organization fees are waived for 2026, but we still welcome voluntary contributions.
 3. **Supporter Member**
    1. Annual Dues:
 
@@ -160,6 +160,8 @@ Dues are paid annually at the start of each membership cycle, which runs from Ja
 | Standard    | $50 USD                     | $20 USD                                |
 | Student     | $20 USD                     | $15 USD                                |
 |             |                             |                                        |
+
+
 
 4. **Supporter Organizations**
    1. Dues vary by organizational size and income level.
@@ -171,6 +173,8 @@ Dues are paid annually at the start of each membership cycle, which runs from Ja
 | Large (>100 staff)   | $750 USD                            | $500 USD                                |
 | Private sector       | $1,000–$1,500 USD (suggested range) | $750–$1,000 USD (suggested range)       |
 
+
+
 ***
 
-This Membership Framework reflects CSIDNet’s commitment to transparent, inclusive, and member-led governance. The Membership and Partnership Committee will regularly review and update this document based on feedback from members to ensure our policies remain clear and supportive of our shared goals.&#x20;
+This Membership Framework reflects CSIDNet’s commitment to transparent, inclusive, and member-led governance. The Membership and Partnership Committee will regularly review and update this document based on feedback from members to ensure our policies remain clear and supportive of our shared goals.

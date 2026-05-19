@@ -4,7 +4,7 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 
 #### A. Start Here
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>I'm a Co-Host</td><td><a href="getting-started/">getting-started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="participant-registration-form.md">participant-registration-form.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>I'm a Co-Host</td><td><a href="getting-started/">Getting Started</a></td></tr><tr><td>I'm an EC Rep</td><td><a href="https://csidnet.gitbook.io/csidnet-handbook/csidnet-regional-convenings-playbook/ec-and-co-host-coordination">Getting Started</a></td></tr></tbody></table>
 
 #### B. Key Dates Callout
 
@@ -15,6 +15,8 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * **Within 30 days post-event**: narrative report + financial documentation due
 {% endhint %}
 
+<img src="https://github.com/user-attachments/assets/fa30bfad-5f0e-4c83-8fe4-3150ff57f42e" alt="Last updated May 13, 2026" height="740" width="1081">
+
 #### C. Quick Links
 
 * [Master Planning Checklist](ec-and-co-host-coordination/master-planning-checklist.md)
@@ -22,5 +24,3 @@ This kit is designed to support regional co-hosts in planning and delivering CSI
 * [Accessibility & Inclusivity Checklist](accessibility-and-inclusivity-checklist-template.md)
 * [Inclusive Participation Fund](participant-management/inclusive-participation-fund-ipf.md)
 * **Questions?** Reach out to [operations@csidnet.org](https://email:operations@csidnet.org)
-
-_Note: French and Spanish versions of key pages are in development_
