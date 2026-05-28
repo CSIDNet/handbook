@@ -53,5 +53,4 @@
     * [Deliverables & Deadlines](csidnet-regional-convenings-playbook/post-event/deliverables-and-deadlines.md)
     * [Post-Event Report Template](csidnet-regional-convenings-playbook/post-event/post-event-report-template.md)
     * [Participant Feedback Survey](csidnet-regional-convenings-playbook/post-event/participant-feedback-survey.md)
-    * [AGM Synthesis Input Template](csidnet-regional-convenings-playbook/post-event/agm-synthesis-input-template.md)
     * [Event Branding Pack](csidnet-regional-convenings-playbook/post-event/event-branding-pack.md)
