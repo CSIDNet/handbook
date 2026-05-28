@@ -2,7 +2,7 @@
 
 **Co-host Communications Guidelines: How to use the CSIDNet brand in emails, social media, event materials, and press**
 
-Issued May 2026
+Issued May 2026. [Open the original Google Doc](https://docs.google.com/document/d/1cJVLe1YuVVPqmJcg9gTHqVrDHv3OrQJK/edit).
 
 This document explains how regional co-hosts represent CSIDNet in communications around the 2026 Regional Convenings. It covers naming, logo usage, tone, credit lines, and the rules that apply to each channel.
 
