@@ -12,7 +12,7 @@ This document explains how regional co-hosts represent CSIDNet in communications
 
 It complements two existing documents that you should keep open alongside this one:
 
-* [**CSID Network Identity Guidelines (October 2025)**](https://drive.google.com/file/d/1pMOXK5i-Fd2yH64f6jBKs3f0SZ8e4MgM/view?usp=drive_link): the master visual identity reference, with full logo, color, and typography specifications.
+* **CSID Network Identity Guidelines (October 2025)**: the master visual identity reference, with full logo, color, and typography specifications.
 * <mark style="color:$warning;">**CSIDNet 2026 Regional Convenings: Co-host Email Templates (link to be provided)**</mark>: ready-to-adapt email templates for outreach, applications, decisions, logistics, and post-event follow-up.
 
 Where this document and the Identity Guidelines disagree on a visual rule, the Identity Guidelines take precedence. Where this document and the Email Templates disagree on wording, the Email Templates take precedence for emails.
