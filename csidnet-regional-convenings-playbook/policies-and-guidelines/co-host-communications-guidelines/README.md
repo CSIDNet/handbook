@@ -10,12 +10,12 @@ description: >-
 
 This document explains how regional co-hosts represent CSIDNet in communications around the 2026 Regional Convenings. It covers naming, logo usage, tone, credit lines, and the rules that apply to each channel you use: participant emails, social media, event materials, and press or blog posts.
 
-It complements two existing documents that you should keep open alongside this one:
+<mark style="color:$warning;">It complements two existing documents that you should keep open alongside this one:</mark>
 
-* **CSID Network Identity Guidelines (October 2025)**: the master visual identity reference, with full logo, color, and typography specifications.
-* <mark style="color:$warning;">**CSIDNet 2026 Regional Convenings: Co-host Email Templates (link to be provided)**</mark>: ready-to-adapt email templates for outreach, applications, decisions, logistics, and post-event follow-up.
+* <mark style="color:$warning;">CSIDNet Identity Guidelines (October 2025): the master visual identity reference, with full logo, color, and typography specifications.</mark>
+* [<mark style="color:$warning;">CSIDNet 2026 Regional Convenings: Co-host Email Templates</mark>](https://docs.google.com/document/d/1sNNgfHgwSl0kCTSCnSzv9eXoV01lisyRIA06PBgOkOM/edit?usp=sharing)<mark style="color:$warning;">: ready-to-adapt email templates for outreach, applications, decisions, logistics, and post-event follow-up.</mark>
 
-Where this document and the Identity Guidelines disagree on a visual rule, the Identity Guidelines take precedence. Where this document and the Email Templates disagree on wording, the Email Templates take precedence for emails.
+<mark style="color:$warning;">Where this document and the Identity Guidelines disagree on a visual rule, the Identity Guidelines take precedence. Where this document and the Email Templates disagree on wording, the Email Templates take precedence for emails.</mark>
 
 #### Audience
 
@@ -53,7 +53,7 @@ Write **CSIDNet's** (apostrophe-s), not "CSIDNets" or "CSIDNet'". Example: CSIDN
 
 #### Translations
 
-CSIDNet is the same name in every language. Do not translate it. The descriptor (Climate Sensitive Infectious Disease Network) may be translated for first mention if the rest of the piece is in another language. There is a Spanish-language introductory deck (Intro a CSIDNet) you can reuse for reference. \{% hint style="warning" %\}🔗 Link to be provided\{% endhint %\}
+CSIDNet is the same name in every language. Do not translate it. The descriptor (Climate Sensitive Infectious Disease Network) may be translated for first mention if the rest of the piece is in another language. There is a <mark style="color:$warning;background-color:$warning;">Spanish-language introductory deck (Intro a CSIDNet)</mark> you can reuse for reference.&#x20;
 
 #### How to describe the co-hosting relationship
 
@@ -75,7 +75,7 @@ Use funder acknowledgement sparingly. The current funder's logo (Wellcome Trust)
 
 #### Where to find the files
 
-The logo pack can be found here <mark style="color:$warning;">**(Link to be provided).**</mark> SVG (preferred for print and design software) and PNG variants are provided. Use the "with margins" version for any application that places the logo against a colored background or shape.
+The logo pack can be found [here](https://drive.google.com/file/d/1CJXwoK5eY4Qi4wVNSxQLkxasX9WjXNrZ/view?usp=drive_link). SVG (preferred for print and design software) and PNG variants are provided. Use the "with margins" version for any application that places the logo against a colored background or shape.
 
 #### Logo variants
 
