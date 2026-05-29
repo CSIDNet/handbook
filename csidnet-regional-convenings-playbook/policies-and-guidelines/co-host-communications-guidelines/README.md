@@ -368,13 +368,13 @@ Quotes about your convening are yours to give. CSIDNet's central team will not i
 
 Approved assets for co-host use:
 
-* CSIDNet logos (full pack, SVG and PNG, every variant): <mark style="color:$warning;">**Link to be provided**</mark>
-* Co-host logos (upscaled): <mark style="color:$warning;">**Link to be provided**</mark>
+* [CSIDNet logos](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/xMprkP44SgJd7WfasU5f/csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/logo-pack) (full pack, SVG and PNG, every variant)
+* [Co-host logos](https://drive.google.com/drive/folders/1gCgMYZ7_taRQhJ6vynLqBUiDHedo-fnv?usp=drive_link) (upscaled)
 * CSID Network Style Guide (master visual identity reference): <mark style="color:$warning;">**Link to be provided**</mark>
-* CSIDNet letterhead template: <mark style="color:$warning;">**Link to be provided**</mark>
-* CSIDNet presentation template: <mark style="color:$warning;">**Link to be provided**</mark>
-* Co-host email templates: <mark style="color:$warning;">**Link to be provided**</mark>
-* Visa support and standing meeting note templates: <mark style="color:$warning;">**Link to be provided**</mark>
+* [CSIDNet letterhead template](https://docs.google.com/document/d/1DitHmZ5p5U-2R_IWUkj0y3An2JNGb4BQiR3oiF0Gpfo/edit?usp=sharing)
+* [CSIDNet presentation template](https://docs.google.com/presentation/d/1eZ2XvVB8MtliuNlQ4jVKDmfnUvgi5ciV/edit?usp=sharing\&ouid=108126421034521478978\&rtpof=true\&sd=true)
+* [Co-host email templates](https://docs.google.com/document/d/1sNNgfHgwSl0kCTSCnSzv9eXoV01lisyRIA06PBgOkOM/edit?usp=sharing)
+* [Visa support](https://docs.google.com/document/d/1fW4BycAPs0XCqFI3hOrVSoaYJRBFvWagNmtsIp85ejU/edit?tab=t.0) and [standing meeting note templates](https://docs.google.com/document/d/1inK2BFVGQsZFsPwErZY_BYWRMvk7TMqIFl9X5zXMwN0/edit?usp=drive_link)
 
 #### Approval flow
 
@@ -389,4 +389,4 @@ Approved assets for co-host use:
 
 * **Your Events Committee representative** is the first point of contact for everything in this document.
 * **Questions on strategy, funding, and further communications**: CSIDNet Operations Team at [operations@csidnet.org](mailto:operations@csidnet.org).
-* **CSIDNet brand and visual identity**: refer to the Identity Guidelines first <mark style="color:$warning;">**Link to be provided**</mark>; if a question remains, ask your Events Committee representative to escalate.
+* **CSIDNet brand and visual identity**: refer to the Identity Guidelines first; if a question remains, ask your Events Committee representative to escalate.
