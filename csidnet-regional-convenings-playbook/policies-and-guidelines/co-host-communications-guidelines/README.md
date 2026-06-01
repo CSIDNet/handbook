@@ -10,12 +10,12 @@ description: >-
 
 This document explains how regional co-hosts represent CSIDNet in communications around the 2026 Regional Convenings. It covers naming, logo usage, tone, credit lines, and the rules that apply to each channel you use: participant emails, social media, event materials, and press or blog posts.
 
-<mark style="color:$warning;">It complements two existing documents that you should keep open alongside this one:</mark>
+It complements two existing documents that you should keep open alongside this one:
 
-* <mark style="color:$warning;">CSIDNet Identity Guidelines (October 2025): the master visual identity reference, with full logo, color, and typography specifications.</mark>
-* [<mark style="color:$warning;">CSIDNet 2026 Regional Convenings: Co-host Email Templates</mark>](https://docs.google.com/document/d/1sNNgfHgwSl0kCTSCnSzv9eXoV01lisyRIA06PBgOkOM/edit?usp=sharing)<mark style="color:$warning;">: ready-to-adapt email templates for outreach, applications, decisions, logistics, and post-event follow-up.</mark>
+* CSIDNet Identity Guidelines (October 2025): the master visual identity reference, with full logo, color, and typography specifications.
+* [CSIDNet 2026 Regional Convenings: Co-host Email Templates](https://docs.google.com/document/d/1sNNgfHgwSl0kCTSCnSzv9eXoV01lisyRIA06PBgOkOM/edit?usp=sharing): ready-to-adapt email templates for outreach, applications, decisions, logistics, and post-event follow-up.
 
-<mark style="color:$warning;">Where this document and the Identity Guidelines disagree on a visual rule, the Identity Guidelines take precedence. Where this document and the Email Templates disagree on wording, the Email Templates take precedence for emails.</mark>
+Where this document and the Identity Guidelines disagree on a visual rule, the Identity Guidelines take precedence. Where this document and the Email Templates disagree on wording, the Email Templates take precedence for emails.
 
 #### Audience
 
@@ -53,7 +53,7 @@ Write **CSIDNet's** (apostrophe-s), not "CSIDNets" or "CSIDNet'". Example: CSIDN
 
 #### Translations
 
-CSIDNet is the same name in every language. Do not translate it. The descriptor (Climate Sensitive Infectious Disease Network) may be translated for first mention if the rest of the piece is in another language. There is a <mark style="color:$warning;background-color:$warning;">Spanish-language introductory deck (Intro a CSIDNet)</mark> you can reuse for reference.&#x20;
+CSIDNet is the same name in every language. Do not translate it. The descriptor (Climate Sensitive Infectious Disease Network) may be translated for first mention if the rest of the piece is in another language. There is a Spanish-language introductory deck (Intro a CSIDNet) Spanish-language introductory deck (Intro a CSIDNet) you can reuse for reference.&#x20;
 
 #### How to describe the co-hosting relationship
 
@@ -369,10 +369,7 @@ Quotes about your convening are yours to give. CSIDNet's central team will not i
 Approved assets for co-host use:
 
 * [CSIDNet logos](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/xMprkP44SgJd7WfasU5f/csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/logo-pack) (full pack, SVG and PNG, every variant)
-* [Co-host logos](https://drive.google.com/drive/folders/1gCgMYZ7_taRQhJ6vynLqBUiDHedo-fnv?usp=drive_link) (upscaled)
-* CSID Network Style Guide (master visual identity reference): <mark style="color:$warning;">**Link to be provided**</mark>
-* [CSIDNet letterhead template](https://docs.google.com/document/d/1DitHmZ5p5U-2R_IWUkj0y3An2JNGb4BQiR3oiF0Gpfo/edit?usp=sharing)
-* [CSIDNet presentation template](https://docs.google.com/presentation/d/1eZ2XvVB8MtliuNlQ4jVKDmfnUvgi5ciV/edit?usp=sharing\&ouid=108126421034521478978\&rtpof=true\&sd=true)
+* [CSID Network Style Guide](https://drive.google.com/file/d/1pMOXK5i-Fd2yH64f6jBKs3f0SZ8e4MgM/view?usp=sharing) (master visual identity reference)
 * [Co-host email templates](https://docs.google.com/document/d/1sNNgfHgwSl0kCTSCnSzv9eXoV01lisyRIA06PBgOkOM/edit?usp=sharing)
 * [Visa support](https://docs.google.com/document/d/1fW4BycAPs0XCqFI3hOrVSoaYJRBFvWagNmtsIp85ejU/edit?tab=t.0) and [standing meeting note templates](https://docs.google.com/document/d/1inK2BFVGQsZFsPwErZY_BYWRMvk7TMqIFl9X5zXMwN0/edit?usp=drive_link)
 
