@@ -123,11 +123,11 @@ If a co-host's primary brand color competes with CSIDNet teal (for example, a wa
 
 ***
 
-### 3. Color and typography
+### 3. Color and typography (optional)
 
 #### Color palette
 
-Use the brand teal as the lead color and pick one or two accents for any single piece. The full palette is intended for variety across materials, not within a single piece.
+Using CSIDNet's color palette for regional convening materials is optional and not mandatory. If you opt for it, please use the brand teal as the lead color and pick one or two accents for any single piece. The full palette is intended for variety across materials, not within a single piece.
 
 | **Color**              | **HEX** | **Role**                                                                                | **Notes**                                                                                    |
 | ---------------------- | ------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -269,7 +269,7 @@ The guidance in this section is offered as suggestions, not strict rules. Adapt 
 #### Account handles and tags
 
 * Tag CSIDNet on every post about the convening. The official handles are: LinkedIn @CSIDNet, X @csidnet. (Confirm the exact handles with your Events Committee representative; this list is updated as new accounts are created.)
-* Tag the relevant funder when the post mentions funding: @WellcomeTrust on LinkedIn and X.
+* Tag the relevant funder when the post mentions funding: @WellcomeTrust on LinkedIn.
 * Tag your own co-host organization's account, plus any speakers, partners, or attendees mentioned by name (with their consent).
 
 #### Hashtags
@@ -300,17 +300,10 @@ The guidance in this section is offered as suggestions, not strict rules. Adapt 
 
 ### 6.3 Event materials
 
-#### Cover pages and decks
-
-* Use the CSIDNet presentation template **("Updated Presentation Template (w/o Wellcome logo).pptx" in CSIDNet Presentations)**. Replace the title-slide placeholders with your event name, location, and dates. Add the co-host logo on the title and closing slides.
-* Both logos appear on the title slide. CSIDNet's primary logo (Mix / full color) goes top-left or center; the co-host logo follows the lockup rules in Section 2.
-* Section divider slides use the brand colors. Pick one accent (lime, blue, purple, red, or yellow) per deck and use it throughout, rather than rotating.
-
-#### Programs and agendas
+#### Decks, programs and agendas
 
 * **Header**: co-host + CSIDNet lockup at top, on a neutral or white background.
 * **Footer**: short credit line ("Co-hosted by \[CO-HOST] and CSIDNet.") in 9 pt Inter Regular, teal. Funder mention is not required on every program or agenda; add it only where the piece sits in a context that calls for it.
-* **Body**: Inter Tight Bold for session titles, Inter Regular for descriptions and times. Keep one accent color for time blocks and section markers.
 
 #### Name badges
 
@@ -326,7 +319,7 @@ The guidance in this section is offered as suggestions, not strict rules. Adapt 
 
 #### Visa support letters and contractual letters
 
-Use the Visa Support Letter template (in \[A]Common-Shared Folder > Templates) and the CSID Letterhead Template. The letterhead already includes the CSIDNet logo and address. Sign on your own organization's headed paper as well, where the receiving consulate or partner expects an institutional letter.
+Use the Visa Support Letter template (in \[A]Common-Shared Folder > Templates). Sign on your own organization's headed paper, where the receiving consulate or partner expects an institutional letter.
 
 ### 6.4 Press, media, and blog
 

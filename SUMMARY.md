@@ -47,6 +47,7 @@
     * [Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/ASKLNrIa4n15urcdSbQp/readme/network-policies/code-of-conduct)
     * [In-person Event Participation Guidelines](https://csidnet.gitbook.io/csidnet-handbook/~/revisions/ASKLNrIa4n15urcdSbQp/readme/network-policies/in-person-event-participation-guidelines)
     * [Co-host Communications Guidelines](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/README.md)
+      * [Comms Quick Reference Guide](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/comms-quick-reference-guide.md)
       * [Logo Pack](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/logo-pack.md)
   * [Sponsorships](csidnet-regional-convenings-playbook/sponsorships.md)
   * [Post-Event](csidnet-regional-convenings-playbook/post-event/README.md)
