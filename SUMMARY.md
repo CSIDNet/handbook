@@ -50,6 +50,7 @@
       * [Comms Quick Reference Guide](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/comms-quick-reference-guide.md)
       * [Logo Pack](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/logo-pack.md)
       * [Email templates](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/co-host-email-templates.md)
+    * [Travel & Expense Reimbursement](csidnet-regional-convenings-playbook/policies-and-guidelines/travel-and-expense-reimbursement.md)
   * [Sponsorships](csidnet-regional-convenings-playbook/sponsorships.md)
   * [Post-Event](csidnet-regional-convenings-playbook/post-event/README.md)
     * [Deliverables & Deadlines](csidnet-regional-convenings-playbook/post-event/deliverables-and-deadlines.md)
