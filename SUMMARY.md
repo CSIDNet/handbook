@@ -7,6 +7,7 @@
     * [Committee Membership and Renewal Policy](readme/network-policies/committee-membership-and-renewal-policy.md)
     * [Honoraria and Non-Staff Compensation Policy](readme/network-policies/honoraria-and-non-staff-compensation-policy.md)
     * [Working Group – Terms of Reference](readme/network-policies/working-group-terms-of-reference.md)
+    * [Newsletter Guidelines](readme/network-policies/newsletter-guidelines.md)
     * [Blogpost Guidelines](readme/network-policies/blogpost-guidelines.md)
     * [Open Sharing Policy](readme/network-policies/open-sharing-policy.md)
     * [Conflict Resolution Policy](readme/network-policies/conflict-resolution-policy.md)
