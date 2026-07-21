@@ -52,7 +52,7 @@ Participants who are asked to stop any harassing behavior are expected to comply
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the gathering.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please submit a report through our [online form](https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog), in-person through the designated point of contact at the event, or email advisory-committee@csid-community.groups.io.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please submit a report through our [online form](https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog), in-person through the designated point of contact at the event, or email advisory-committee@csid-community.groups.io. The Advisory Group consists of Drs Gemma Turon, Nishanta Sharma, and Luchuo Engelbert Bain who will all receive and review the reports. All concerns will be handled with care and confidentiality.
 
 In sum, we expect you to share knowledge with each other, enjoy the opportunity to connect, and treat each other with the respect you wish to receive.
 
