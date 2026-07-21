@@ -24,6 +24,7 @@
     * [Fellow Project Fund Use Guidelines](readme/network-policies/fellow-project-fund-use-guidelines.md)
     * [Formation and Dissolution of the Committees Policy](readme/network-policies/formation-and-dissolution-of-the-committees-policy.md)
     * [Process for Renaming a Committee](readme/network-policies/process-for-renaming-a-committee.md)
+  * [Outreach Materials](readme/outreach-materials.md)
 * [CSIDNet Regional Convenings Playbook](csidnet-regional-convenings-playbook/README.md)
   * [Getting Started](csidnet-regional-convenings-playbook/getting-started/README.md)
     * [Roles & Responsibilities](csidnet-regional-convenings-playbook/getting-started/roles-and-responsibilities.md)
