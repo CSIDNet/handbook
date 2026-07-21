@@ -4,9 +4,9 @@ description: Updated on Feb 28, 2025
 
 # In-Person Event Participation Guidelines
 
-CSID Network is committed to creating and maintaining an environment where everyone is welcomed, respected, and supported. We want everyone to have an opportunity to participate and contribute, and to be valued for their skills, experience, and unique perspectives.
+CSID Network is committed to creating and maintaining an environment where everyone is welcomed, respected, and supported. We want everyone to have an opportunity to participate and contribute, and to be valued for their skills, experience, and unique perspectives. Our [Code of Conduct Policy](code-of-conduct.md) outlines the shared practices we would like all members to adopt in order to foster a positive, inclusive environment where everyone feels welcomed and valued.
 
-Our gatherings are diverse, by any measure. Participants have arrived, representing a broad range of experiences and viewpoints. Apart from learning and sharing, much of what we are trying to accomplish at these events involves building new relationships and establishing support that will bind us all together beyond this gathering.
+Our in-person gatherings are diverse, by any measure. Participants have arrived, representing a broad range of experiences and viewpoints. Apart from learning and sharing, much of what we are trying to accomplish at these events involves building new relationships and establishing support that will bind us all together beyond this gathering.
 
 While we do not want to dictate behavior or limit expression in any way, we provide the following guidelines as a starting point for collaboration and community building during gatherings. We will further deepen these guidelines by setting community agreements at the start of our in-person gathering together.
 
@@ -50,9 +50,9 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants who are asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the gathering.&#x20;
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the gathering.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the CSIDNet staff immediately or email [operations@csidnet.org](mailto:operations@csidnet.org).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please submit a report through our [online form](https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog), in-person through the designated point of contact at the event, or email advisory-committee@csid-community.groups.io.
 
 In sum, we expect you to share knowledge with each other, enjoy the opportunity to connect, and treat each other with the respect you wish to receive.
 
