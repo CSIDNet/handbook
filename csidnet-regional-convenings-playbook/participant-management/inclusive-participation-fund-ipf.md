@@ -15,12 +15,6 @@ This fund provides needs-based, flexible support to enable meaningful engagement
 * Childcare or caregiving support
 * Accessibility assistance
 
-#### Who manages the IPF?
-
-{% hint style="warning" %}
-The IPF is managed by CSIDNet Finance Committee and operations staff. Co-hosts should not make any promises or commitments to participants about financial support. Direct all participant questions about the IPF to operations@csidnet.org
-{% endhint %}
-
 #### How to apply?
 
 The Expression of Interest and Inclusive Participation Fund applications share a **single deadline per region**, set approximately 12 weeks before each event. Applications open across all regions on **May 8, 2026** (target, contingent on co-host contracts and the announcement blog post). Both forms are available in English, French, and Spanish:
@@ -88,4 +82,20 @@ Registration deadlines for selected participants are set per region (typically w
 
 {% hint style="info" %}
 For the full IPF policy, including eligibility criteria, need tiering, and the complete selection process, see [here](https://docs.google.com/document/d/17aIrM29LdyqruHkcnIcFXJNWpS0Ig_a0wp72CyHl2LA/edit?tab=t.0).<br>
+{% endhint %}
+
+#### How is IPF paid out? _(updated on July 22, 2026)_
+
+{% hint style="warning" %}
+Our expectation is that IPF participants manage their travel arrangements themselves and are reimbursed through the standard IPF process. Alternative arrangements (such as fund transfers to the co-host team or Ramp card support) are available when either the co-host or the participant is genuinely unable to pay upfront.
+
+To help us manage requests consistently and transparently, please encourage all IPF participants to submit their responses through the IPF Contract & Agreement Form only, as this is the information we will use for reviewing support requests and issuing Ramp cards where necessary. We will not be using separate email replies to determine support arrangements.
+
+The process is as follows:
+
+* If a participant accepts the reimbursement arrangement, they proceed with the standard IPF process.
+* If a participant selects “I do not accept the offer” in the form and explains that they are unable to pay upfront, the CSIDNet Operations team will review the case directly.
+* Where support is approved, we may issue a Ramp card with a predefined spending limit based on the IPF amount allocated to that participant, along with a specific activation date and expiration date.
+* The Ramp card can then be used for approved travel-related expenses, but the participant will still need to submit the relevant invoices and receipts.
+* For participants requesting support beyond the IPF amount already allocated, cases may be placed on a waitlist until registration closes and a final review is completed, as the IPF budget is limited and additional support can only be confirmed after all applications have been assessed.
 {% endhint %}
