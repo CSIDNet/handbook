@@ -9,7 +9,7 @@
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Location</strong></td><td><strong>Name</strong></td><td><strong>Email</strong></td></tr><tr><td>Thailand</td><td>Vidhyakorn Mahd-Adam</td><td><a href="mailto:Vidhyakorn@tropmedres.ac">Vidhyakorn@tropmedres.ac</a></td></tr><tr><td>Bangladesh</td><td>Mohammad Rezaul Karim</td><td><a href="mailto:MOHAMMAD.KARIM@icddrb.org">MOHAMMAD.KARIM@icddrb.org</a> </td></tr><tr><td>Kenya</td><td><p>Maureen Mbithe</p><p>Linet Onyina</p><p>Umazi Munyikah</p></td><td><a href="mailto:analytics.officer@africabioethicsnetwork.org">analytics.officer@africabioethicsnetwork.org</a>, <a href="mailto:researchoffice@africabioethicsnetwork.org">researchoffice@africabioethicsnetwork.org</a>, <a href="mailto:programs@africabioethicsnetwork.org">programs@africabioethicsnetwork.org</a> </td></tr><tr><td>Colombia</td><td>Diana Fajardo</td><td><a href="mailto:dclemenciaf@gmail.com">dclemenciaf@gmail.com</a> </td></tr><tr><td>Cameroon</td><td>Ms. Nkahe Diane Leslie</td><td><a href="mailto:leslie.diane112@gmail.com">leslie.diane112@gmail.com</a> </td></tr><tr><td>Advisory Committee (based in Thailand)</td><td>Nishanta Sharma</td><td><a href="mailto:nishanta.s@hitap.net">nishanta.s@hitap.net</a> </td></tr></tbody></table>
 
 **Reporting flow at a glance:**\
-An incident or concern can be raised in person, by phone, by email, or via the [reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog). It goes to the event's point of contact first (see contacts above), who follows the in-person reporting template below to capture details and immediate response, and escalates further depending on severity (see triage matrix below.)
+An incident or concern can be raised in person, by phone, by email, or via the [reporting form](https://forms.gle/3FsyDmG2rm1bF9PF7). It goes to the event's point of contact first (see contacts above), who follows the in-person reporting template below to capture details and immediate response, and escalates further depending on severity (see triage matrix below.)
 
 <figure><img src="../../.gitbook/assets/CoC_Escalation_Flow.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ The template also has fields for a behavioral modification plan, consequences, a
 
 **Quick links:**
 
-* **Reporting form:** [https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSdqOjDhNWfCTfgFDefP66q0bIinzNJ99wI6k0hrWQwIQmesVA/viewform?usp=dialog)
+* **Reporting form:** [https://forms.gle/3FsyDmG2rm1bF9PF7](https://forms.gle/3FsyDmG2rm1bF9PF7)
 * **In-person reporting template**: [https://gitlab.com/otter-tech/coc-incident-response-workshop/blob/master/report-template-for-responders.pdf](https://gitlab.com/otter-tech/coc-incident-response-workshop/blob/master/report-template-for-responders.pdf)
 
 <table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://csidnet.gitbook.io/csidnet-handbook/~/revisions/S4xli0rUC6qCi6xp1pEC/readme/network-policies/code-of-conduct">Code of Conduct</a></td><td></td></tr><tr><td><a href="https://csidnet.gitbook.io/csidnet-handbook/~/revisions/3zLqRI4qlPXwMeCCYmCi/readme/network-policies/in-person-event-participation-guidelines">In-person Event Participation Guidelines</a></td><td></td></tr></tbody></table>
