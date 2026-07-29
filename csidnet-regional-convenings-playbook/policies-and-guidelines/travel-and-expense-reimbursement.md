@@ -49,7 +49,7 @@ CS\&S will follow up via Ramp to collect your bank details and process the reimb
 Your PDF must begin with a completed invoice cover page. Include all of the following:
 
 * Recipient full name
-* CSIDNet FSP code
+* CSIDNet FSP code: 04010 CSID: 24 CSID Wellcome Trust
 * Event city and country
 * IPF award amount
 * Total expenses incurred
