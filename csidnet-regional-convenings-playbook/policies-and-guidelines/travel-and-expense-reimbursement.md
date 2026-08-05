@@ -9,7 +9,7 @@ description: IPF Scholarship Recipients
 This document explains the complete process, required documentation, and submission instructions for IPF support recipients. All recipients will cover their own travel and event expenses upfront, then submit receipts to CS\&S for full reimbursement.&#x20;
 
 {% hint style="warning" %}
-Important Note: Any costs exceeding the confirmed IPF support amount must be covered by the participant. Where funds remain available within the IPF budget, co-hosts may elect to cover the additional costs at their discretion.&#x20;
+Important Note: Reimbursements are based on actual eligible expenses incurred, rather than the full approved IPF amount. Any costs exceeding the confirmed IPF support amount must be covered by the participant. Where funds remain available within the IPF budget, co-hosts may elect to cover the additional costs at their discretion.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -83,6 +83,10 @@ Use the[ CS\&S expense documentation template](https://docs.google.com/document/
 #### What types of expenses are covered?
 
 Eligible expenses typically include flights, accommodation, meals, and ground transportation directly related to the event. If you are unsure whether a specific expense qualifies, contact CS\&S before incurring the cost.
+
+#### What happens if I choose to arrive earlier, depart later, or take an indirect route for personal reasons?
+
+CSIDNet will reimburse up to the cost of the equivalent baseline itinerary that aligns with the approved event travel dates. Any additional costs resulting from personal travel preferences are the participant's responsibility.
 
 #### What is the submission deadline?
 
