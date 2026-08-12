@@ -57,5 +57,6 @@
   * [Outreach Materials](csidnet-regional-convenings-playbook/outreach-materials.md)
   * [Sponsorships](csidnet-regional-convenings-playbook/sponsorships.md)
   * [Post-Event](csidnet-regional-convenings-playbook/post-event/README.md)
+    * [Post-Event Communications Guidelines](csidnet-regional-convenings-playbook/post-event/post-event-communications-guidelines.md)
     * [Post-Event Report Template](csidnet-regional-convenings-playbook/post-event/post-event-report-template.md)
     * [Participant Feedback Survey](csidnet-regional-convenings-playbook/post-event/participant-feedback-survey.md)
