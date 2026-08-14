@@ -86,7 +86,6 @@ A list for other post-event deliverables can be found [here](https://csidnet.git
 2. Events Committee Representatives (EC Reps) divide responsibilities of authorship of different sections.&#x20;
 3. Communications Committee receives the blog post and requests editorial changes if necessary
 4. Final blog post is handed over to CSIDNet staff for publishing
-5. Post on social media in real time so followers get the feeling of the event as it happens.
 
 #### Social media posting
 
@@ -94,7 +93,7 @@ A list for other post-event deliverables can be found [here](https://csidnet.git
 2. CSIDNet staff collects reports and impressions from local co-hosts and the EC Reps
 3. CSIDNet staff prepares social media posts based on co-host and EC Reps’ input highlighting participant engagement, diversity and the topics of the convening.
 4. CSIDNet staff posts content on LinkedIn, Bluesky, X, and also the CSIDNet app.
-5. Individual posts are encouraged with relevant CSIDNet handles and convening and topic hashtags
+5. Individual posts are encouraged with relevant CSIDNet handles and convening and topic hashtags. You can post on social media in real time, so followers get the feeling of the event as it happens.
 
 **Questions: operations@csidnet.org**
 
