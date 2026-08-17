@@ -45,7 +45,7 @@ Tip: Connect your Ramp card to Apple Wallet or Google Pay for contactless paymen
 
 An invoice or receipt should be submitted for each purchase made using your Ramp card.&#x20;
 
-#### Need help?
+#### Need Help?
 
 If you have any questions about your Ramp card, or experience any issues accessing your account, please contact your regional co-host and the CSIDNet Operations team&#x20;
 
