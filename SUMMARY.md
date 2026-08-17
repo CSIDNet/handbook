@@ -53,6 +53,7 @@
       * [Comms Quick Reference Guide](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/comms-quick-reference-guide.md)
       * [Logo Pack](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/logo-pack.md)
       * [Email templates](csidnet-regional-convenings-playbook/policies-and-guidelines/co-host-communications-guidelines/co-host-email-templates.md)
+    * [Ramp Guidelines for IPF Participants](csidnet-regional-convenings-playbook/policies-and-guidelines/ramp-guidelines-for-ipf-participants.md)
     * [Travel & Expense Reimbursement](csidnet-regional-convenings-playbook/policies-and-guidelines/travel-and-expense-reimbursement.md)
   * [Outreach Materials](csidnet-regional-convenings-playbook/outreach-materials.md)
   * [Sponsorships](csidnet-regional-convenings-playbook/sponsorships.md)
