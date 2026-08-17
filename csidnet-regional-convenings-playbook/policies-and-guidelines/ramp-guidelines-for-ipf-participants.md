@@ -4,7 +4,7 @@
 Important: This guideline applies only to regions in which the regional co-hosts and CSIDNet have determined that Inclusive Participation Fund (IPF) participants will receive support through a Ramp card. If your region is not using Ramp, this guideline does not apply to you. Your co-host will share alternative payment or reimbursement instructions.
 {% endhint %}
 
-#### Setting Up Your Ramp Card
+#### Setting up your Ramp Card
 
 If you're using Ramp for the first time, we recommend reviewing the following guides:
 
