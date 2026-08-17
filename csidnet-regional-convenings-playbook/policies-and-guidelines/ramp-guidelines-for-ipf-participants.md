@@ -47,6 +47,6 @@ An invoice or receipt should be submitted for each purchase made using your Ramp
 
 #### Need Help?
 
-If you have any questions about your Ramp card, or experience any issues accessing your account, please contact your regional co-host and the CSIDNet Operations team&#x20;
+If you have any questions about your Ramp card or experience any issues accessing your account, please contact your regional co-host and the CSIDNet team at operations@csidnet.org
 
 <br>
