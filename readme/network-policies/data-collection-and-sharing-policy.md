@@ -30,7 +30,7 @@ The four required fields (name, email, organization, role) let us communicate wi
 
 Optional fields are shared only if you provide them. If you add a biography, areas of interest, links, or fill in any other field, these may become visible to other CSIDNet members in our community directory and the CSIDNet app. The app also allows you to upload a photo if you prefer to. Your phone number may be used for group chats. In some cases, your phone number may be also shared with our program partners and consultants for you to be in direct contact with them and/or if any of these people are invited to group chats where your phone number is visible.&#x20;
 
-The IT products and service providers we use for our tech stack and social media include companies but not limited to: Airtable, Bluesky, CiviCRM, GitHub, Google, LinkedIn, Mastodon, Monday, Ramp, Signal, WordPress, WhatsApp, X, and Zoom.
+The IT products and service providers we use for our tech stack and social media include companies but not limited to: Adobe, Anthropic, Airtable, Bluesky, Buffer, Canva, CiviCRM, Code for Science and Society, Datawrapper, Docuseal, GitHub, Google, Groups.io, HyperAgent, LinkedIn, Mastodon, Mentimeter, Monday, Navan, Newsmast, OpenAI, Partner & Partners, Ramp, Sage, Signal, WordPress, Vimeo, WhatsApp, X, Zenodo, and Zoom.
 
 We do not sell your information or share it for advertising unless separately and explicitly agreed with you to use it in our fundraising for nonprofit purposes.
 
