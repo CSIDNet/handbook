@@ -39,7 +39,7 @@ All CSID Network members are expected to:
 
 **Code of Conduct**
 
-To support a safe and welcoming environment, all members agree to follow CSDINet’s [Code of Conduct](code-of-conduct.md). The Code of Conduct outlines expected behavior for all participants. Violations, following an investigation by the Governance Committee, may result in loss of membership. Concerns can be reported to the Advisory Committee at [advisory@csid-community.groups.io](mailto:advisory@CSID-community.groups.io).
+To support a safe and welcoming environment, all members agree to follow CSDINet’s [Code of Conduct](code-of-conduct/). The Code of Conduct outlines expected behavior for all participants. Violations, following an investigation by the Governance Committee, may result in loss of membership. Concerns can be reported to the Advisory Committee at [advisory@csid-community.groups.io](mailto:advisory@CSID-community.groups.io).
 
 ### Membership Categories, Participation Requirements & Benefits
 

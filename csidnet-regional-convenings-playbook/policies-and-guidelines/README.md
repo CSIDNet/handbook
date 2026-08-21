@@ -2,7 +2,7 @@
 
 **Code of Conduct: Reporting & Escalation** _(updated on 21 July 2026)_
 
-**Points of contact:** Every regional event has a confirmed in-person point of contact for Code of Conduct issues. Please introduce this person on the first day to participants alongside the [Code of Conduct](../../readme/network-policies/code-of-conduct.md) itself.
+**Points of contact:** Every regional event has a confirmed in-person point of contact for Code of Conduct issues. Please introduce this person on the first day to participants alongside the [Code of Conduct](../../readme/network-policies/code-of-conduct/) itself.
 
 **2026 CoC Points of Contact**
 

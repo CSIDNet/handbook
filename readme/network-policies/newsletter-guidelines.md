@@ -46,7 +46,7 @@ The Committee should aim to send the update in the first two weeks of each month
 ### Content Structure&#x20;
 
 **Subject line**: CSIDNet \[Month] Update: \[If possible, also an appealing key theme or news]\
-&#xNAN;_&#x45;xamples:_
+_&#x45;xamples:_
 
 * CSIDNet Feb Update
 * CSIDNet January Update: New Committees, Leadership Update, and Opportunities

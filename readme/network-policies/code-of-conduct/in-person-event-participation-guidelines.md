@@ -4,7 +4,7 @@ description: Updated on Feb 28, 2025
 
 # In-Person Event Participation Guidelines
 
-CSID Network is committed to creating and maintaining an environment where everyone is welcomed, respected, and supported. We want everyone to have an opportunity to participate and contribute, and to be valued for their skills, experience, and unique perspectives. Our [Code of Conduct Policy](code-of-conduct.md) outlines the shared practices we would like all members to adopt in order to foster a positive, inclusive environment where everyone feels welcomed and valued.
+CSID Network is committed to creating and maintaining an environment where everyone is welcomed, respected, and supported. We want everyone to have an opportunity to participate and contribute, and to be valued for their skills, experience, and unique perspectives. Our [Code of Conduct Policy](./) outlines the shared practices we would like all members to adopt in order to foster a positive, inclusive environment where everyone feels welcomed and valued.
 
 Our in-person gatherings are diverse, by any measure. Participants have arrived, representing a broad range of experiences and viewpoints. Apart from learning and sharing, much of what we are trying to accomplish at these events involves building new relationships and establishing support that will bind us all together beyond this gathering.
 
