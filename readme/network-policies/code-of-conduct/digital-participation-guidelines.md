@@ -4,9 +4,9 @@ description: Updated on August 14, 2026
 
 # Digital Participation Guidelines
 
-CSIDNet is committed to create a safe and engaging digital communication environment where everyone can contribute. Our[ Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/readme/network-policies/code-of-conduct) sets out the shared practices we ask all members to adopt, wherever we meet, and it applies to all community interactions, including digital and in-person spaces.&#x20;
+CSIDNet is committed to create a safe and engaging digital communication environment where everyone can contribute. Our [Code of Conduct](https://csidnet.gitbook.io/csidnet-handbook/readme/network-policies/code-of-conduct) sets out the shared practices we ask all members to adopt, wherever we meet, and it applies to all community interactions, including digital and in-person spaces.&#x20;
 
-These guidelines provide further practical recommendations, and cover the digital spaces that CSIDNet manages such as the CSIDNet app, virtual events, group chats, email groups, and video calls. For in-person events, please see our[ In-Person Event Participation Guidelines](https://csidnet.gitbook.io/csidnet-handbook/readme/network-policies/in-person-event-participation-guidelines).
+These guidelines provide further practical recommendations, and cover the digital spaces that CSIDNet manages such as the CSIDNet app, virtual events, group chats, email groups, and video calls. For in-person events, please see our [In-Person Event Participation Guidelines](https://csidnet.gitbook.io/csidnet-handbook/readme/network-policies/in-person-event-participation-guidelines).
 
 #### Multiple communication channels of our global community
 
@@ -55,7 +55,7 @@ Members should:
 
 #### Privacy and safety
 
-Our [Data Collection and Sharing Policy](https://docs.google.com/document/d/120ZUV9SntV_HQCY61jaCzDFDFz9xm2JNJnrLh8YWNHs/edit?tab=t.oyd2m5w7b95i) explains what CSIDNet holds about you and who we share it with.
+Our [Data Collection and Sharing Policy](https://csidnet.gitbook.io/csidnet-handbook/readme/network-policies/data-collection-and-sharing-policy) explains what CSIDNet holds about you and who we share it with.
 
 Please do not share members’ phone numbers, personal details, or group content without consent. Always ask the people involved before sharing screenshots or quoting from private messages, closed spaces and member-only sessions.&#x20;
 
