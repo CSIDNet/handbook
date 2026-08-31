@@ -75,7 +75,7 @@ Tip: Keep receipts as you go. Don’t wait until after the event to collect them
 
 Before sending your reimbursement package, confirm all of the following:
 
-* [Post-event IPF recipient survey](https://docs.google.com/forms/d/e/1FAIpQLSdoB84E4IDWXaG81wXD0ZojbEO3ldPjS8j4gVK6X3_HXoARnQ/viewform?usp=sharing\&ouid=108126421034521478978) completed
+* Post-event IPF recipient survey completed
 * Invoice cover page fully completed (all required fields filled in)
 * All receipts collected and legible
 * All documents compiled into one single PDF
