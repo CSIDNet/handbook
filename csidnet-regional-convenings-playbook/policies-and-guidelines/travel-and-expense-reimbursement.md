@@ -13,7 +13,15 @@ Important Note: Reimbursements are based on actual eligible expenses incurred, r
 {% endhint %}
 
 {% hint style="info" %}
-Action Required: You must complete the [post-event IPF recipient survey](https://docs.google.com/forms/d/e/1FAIpQLSdoB84E4IDWXaG81wXD0ZojbEO3ldPjS8j4gVK6X3_HXoARnQ/viewform?usp=sharing\&ouid=108126421034521478978) before your reimbursement can be processed.
+Action Required: You must complete the following post-event IPF recipient survey based on the regional convening attended, before your reimbursement can be processed:
+
+> **Post-event IPF recipient surveys:**
+>
+> * [Thailand ](https://forms.gle/XzJGDUjFJ6E75Dxq5)
+> * [Kenya](https://forms.gle/DnhZtRNU6x38cTQ67)&#x20;
+> * [Bangladesh](https://forms.gle/ekKDJWeN8ZZ3cFRP6)
+> * Cameroon
+> * [Colombia ](https://docs.google.com/forms/d/1DFp_GFkOgPMNvJSw144YpQjDxcdv6G8BDVuwX64KqLI/edit)
 {% endhint %}
 
 ### Reimbursement Process
