@@ -98,7 +98,7 @@ CSIDNet will reimburse up to the cost of the equivalent baseline itinerary that 
 
 #### **Can I claim ground transportation if I drive myself?**
 
-**A:** Yes. You can claim mileage for travel to and from the event at $0.76 per mile.
+Yes. You can claim mileage for travel to and from the event at $0.76 per mile.
 
 #### What is the submission deadline?
 
