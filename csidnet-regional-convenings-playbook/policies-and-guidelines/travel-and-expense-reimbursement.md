@@ -1,5 +1,5 @@
 ---
-description: IPF Scholarship Recipients
+description: IPF Scholarship Awardees
 ---
 
 # Travel & Expense Reimbursement
