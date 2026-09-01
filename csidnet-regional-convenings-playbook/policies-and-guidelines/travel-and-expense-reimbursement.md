@@ -96,6 +96,10 @@ Eligible expenses typically include flights, accommodation, meals, and ground tr
 
 CSIDNet will reimburse up to the cost of the equivalent baseline itinerary that aligns with the approved event travel dates. Any additional costs resulting from personal travel preferences are the participant's responsibility.
 
+#### **Can I claim ground transportation if I drive myself?**
+
+**A:** Yes. You can claim mileage for travel to and from the event at $0.76 per mile.
+
 #### What is the submission deadline?
 
 All reimbursement packages must be submitted within two weeks of the event end date.
