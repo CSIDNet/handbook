@@ -106,6 +106,6 @@ All reimbursement packages must be submitted within two weeks of the event end d
 
 #### Who do I contact with questions?
 
-Email [bills@codeforsociety.org](mailto:bills@codeforsociety.org) with any questions. Include your full name and event country in the subject line for faster assistance.
+Email [bills@codeforsociety.org](mailto:bills@codeforsociety.org) with any questions, and CC operations@csidnet.org. Include your full name and event country in the subject line for faster assistance.
 
 <br>
