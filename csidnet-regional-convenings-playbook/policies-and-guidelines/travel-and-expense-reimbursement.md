@@ -86,7 +86,7 @@ Before sending your reimbursement package, confirm all of the following:
 
 #### What if I cannot obtain a receipt for an expense?
 
-Use the[ CS\&S expense documentation template](https://docs.google.com/document/d/1WXaGhB8QFerEHWalXla1FpNchmvVMtpdtMsCVRTwULg/edit?usp=sharing) to record the expense details. Complete the template and include it in your PDF in place of the missing receipt, then submit as normal to [bills@codeforsociety.org](mailto:bills@codeforsociety.org) and CC operations@csidnet.org.&#x20;
+Use the[ CS\&S expense documentation template](https://docs.google.com/document/d/1WXaGhB8QFerEHWalXla1FpNchmvVMtpdtMsCVRTwULg/edit?usp=sharing) to record the expense details. Complete the template and include it in your PDF in place of the missing receipt, then submit as normal to [bills@codeforsociety.org](mailto:bills@codeforsociety.org) and CC [operations@csidnet.org](mailto:operations@csidnet.org).&#x20;
 
 #### What types of expenses are covered?
 
@@ -106,6 +106,6 @@ All reimbursement packages must be submitted within two weeks of the event end d
 
 #### Who do I contact with questions?
 
-Email [bills@codeforsociety.org](mailto:bills@codeforsociety.org) with any questions, and CC operations@csidnet.org. Include your full name and event country in the subject line for faster assistance.
+Email [bills@codeforsociety.org](mailto:bills@codeforsociety.org) with any questions, and CC [operations@csidnet.org](mailto:operations@csidnet.org). Include your full name and event country in the subject line for faster assistance.
 
 <br>
