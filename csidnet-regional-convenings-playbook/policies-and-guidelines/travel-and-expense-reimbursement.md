@@ -30,7 +30,7 @@ Follow these five steps in order:
 
 1. **Pay for your expenses:**&#x20;
 
-Cover all costs directly, including flights, hotel, meals, ground transport, and any other event-related expenses. Make sure to check with your local organizer / co-host institution whether there is a different arrangement. If your accommodation, meals, and ground transport may be covered directly by the local organizer, you will need to purchase your ticket only and get reimbursed later.  <br>
+Cover all costs directly, including flights, hotel, meals, ground transport, and any other eligible event-related expenses. Make sure to check with your local organizer / co-host institution whether there is a different arrangement. If your accommodation, meals, and ground transport may be covered directly by the local organizer, you will need to purchase your ticket only and get reimbursed later.  <br>
 
 2. **Collect all receipts:**
 
