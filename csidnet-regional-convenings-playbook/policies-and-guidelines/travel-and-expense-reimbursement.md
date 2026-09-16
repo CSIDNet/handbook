@@ -90,7 +90,7 @@ Use the[ CS\&S expense documentation template](https://docs.google.com/document/
 
 #### What types of expenses are covered?
 
-Eligible expenses typically include flights, accommodation, meals, and ground transportation directly related to the event. If you are unsure whether a specific expense qualifies, contact CS\&S before incurring the cost.
+Eligible expenses typically include flights, accommodation, meals, and ground transportation directly related to the event. If you are unsure whether a specific expense qualifies, contact your co-host and CSIDNet at operations@csidnet.org before incurring the cost.
 
 #### What happens if I choose to arrive earlier, depart later, or take an indirect route for personal reasons?
 
