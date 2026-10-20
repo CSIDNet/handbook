@@ -8,10 +8,13 @@ Important: This guideline applies only to regions in which the regional co-hosts
 
 If you're using Ramp for the first time, we recommend reviewing the following guides:
 
-* [Ramp Cardholder Setup](https://drive.google.com/file/d/1rRD3AFfTQPrdmlkYRsWkk5nc14tHWjr2/view?usp=drive_web)
-* [Getting Started with Ramp](https://drive.google.com/file/d/1uIrQbKxq6wKQth4UtJOaQX33IacxaK3b/view?usp=drive_web)&#x20;
-* [Reimbursements in Ramp](https://drive.google.com/file/d/1BU3DouAnzqgpRQcxVmDaq-V6uFz0nsb8/view?usp=drive_web)&#x20;
+* [Countries Ramp is Incompatible With](https://drive.google.com/file/d/10g55rr2zLCUaDBEw2rpP5AS9C2ZIXrfE/view)&#x20;
+* Ramp Cardholder Setup (In-progress)
+* [Reimbursements in Ramp](https://support.ramp.com/submitting-reimbursements)&#x20;
+* [Onboarding as a reimbursement-only user](https://support.ramp.com/getting-started-as-a-user#onboarding-as-a-reimbursement-only-user)
 * [Ramp Card Walkthrough (tutorial)](https://www.loom.com/share/e7d7b5a4cab640e5b5c4709e6dff4009)
+
+
 
 What happens after my IPF application is approved?
 
