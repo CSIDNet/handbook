@@ -22,6 +22,7 @@
     * [Process for Renaming a Committee](readme/network-policies/process-for-renaming-a-committee.md)
     * [Representativeness Statement](readme/network-policies/representativeness-statement.md)
     * [Reporting Guide and Schedule for CSID Network Committees](readme/network-policies/reporting-guide-and-schedule-for-csid-network-committees.md)
+    * [Letters of Recommendation](readme/network-policies/letters-of-recommendation.md)
     * [Terms of Reference Template](readme/network-policies/terms-of-reference-template.md)
     * [Working Groups Collaboration Agreement](readme/network-policies/collaboration-agreement.md)
     * [Working Group Financial Guidelines](readme/network-policies/working-group-financial-guidelines.md)
